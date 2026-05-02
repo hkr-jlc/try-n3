@@ -51,7 +51,7 @@
             <kategori>エッセーを読む</kategori>
             <kategori_en>Reading an Essay</kategori_en>
             <kategori_id>Membaca Esai</kategori_id>
-            <nomor>1</nomor>
+            <nomor>2</nomor>
             <judul_jp>初めての富士登山（２）</judul_jp>
             <judul_en>First climb up Mt. Fuji (2)</judul_en>
             <judul_id>Pendakian Pertama ke Gunung Fuji (2)</judul_id>
@@ -70,7 +70,7 @@
             <kategori>ストーリーを読む</kategori>
             <kategori_en>Reading a Story</kategori_en>
             <kategori_id>Membaca Cerita</kategori_id>
-            <nomor>2</nomor>
+            <nomor>3</nomor>
             <judul_jp>ぼくの犬、クロ（１）</judul_jp>
             <judul_en>My pet dog Kuro (1)</judul_en>
             <judul_id>Anjingku, Kuro (1)</judul_id>
@@ -90,7 +90,7 @@
             <kategori>ストーリーを読む</kategori>
             <kategori_en>Reading a Story</kategori_en>
             <kategori_id>Membaca Cerita</kategori_id>
-            <nomor>2</nomor>
+            <nomor>4</nomor>
             <judul_jp>ぼくの犬、クロ（２）</judul_jp>
             <judul_en>My pet dog Kuro (2)</judul_en>
             <judul_id>Anjingku, Kuro (2)</judul_id>
@@ -108,7 +108,7 @@
             <kategori>お知らせを読む</kategori>
             <kategori_en>Reading an Announcement</kategori_en>
             <kategori_id>Membaca Pengumuman</kategori_id>
-            <nomor>3</nomor>
+            <nomor>5</nomor>
             <judul_jp>市民農園の募集（１）</judul_jp>
             <judul_en>Applicants wanted for community garden (1)</judul_en>
             <judul_id>Pendaftaran Kebun Komunitas (1)</judul_id>
@@ -127,7 +127,7 @@
             <kategori>お知らせを読む</kategori>
             <kategori_en>Reading an Announcement</kategori_en>
             <kategori_id>Membaca Pengumuman</kategori_id>
-            <nomor>3</nomor>
+            <nomor>6</nomor>
             <judul_jp>市民農園の募集（２）</judul_jp>
             <judul_en>Applicants wanted for community garden (2)</judul_en>
             <judul_id>Pendaftaran Kebun Komunitas (2)</judul_id>
@@ -146,7 +146,7 @@
             <kategori>友達同士の会話</kategori>
             <kategori_en>A Conversation with a Friend</kategori_en>
             <kategori_id>Percakapan dengan Teman</kategori_id>
-            <nomor>4</nomor>
+            <nomor>7</nomor>
             <judul_jp>水泳大会（１）</judul_jp>
             <judul_en>A swimming competition (1)</judul_en>
             <judul_id>Kompetisi Renang (1)</judul_id>
@@ -164,7 +164,7 @@
             <kategori>友達同士の会話</kategori>
             <kategori_en>A Conversation with a Friend</kategori_en>
             <kategori_id>Percakapan dengan Teman</kategori_id>
-            <nomor>4</nomor>
+            <nomor>8</nomor>
             <judul_jp>水泳大会（２）</judul_jp>
             <judul_en>A swimming competition (2)</judul_en>
             <judul_id>Kompetisi Renang (2)</judul_id>
@@ -185,7 +185,7 @@
             <kategori>説明を読む</kategori>
             <kategori_en>Reading an Explanation</kategori_en>
             <kategori_id>Membaca Penjelasan</kategori_id>
-            <nomor>5</nomor>
+            <nomor>9</nomor>
             <judul_jp>手作りハムのレシピ（１）</judul_jp>
             <judul_en>A recipe for homemade ham (1)</judul_en>
             <judul_id>Resep Ham Buatan Sendiri (1)</judul_id>
@@ -203,7 +203,7 @@
             <kategori>説明を読む</kategori>
             <kategori_en>Reading an Explanation</kategori_en>
             <kategori_id>Membaca Penjelasan</kategori_id>
-            <nomor>5</nomor>
+            <nomor>10</nomor>
             <judul_jp>手作りハムのレシピ（２）</judul_jp>
             <judul_en>A recipe for homemade ham (2)</judul_en>
             <judul_id>Resep Ham Buatan Sendiri (2)</judul_id>
@@ -222,7 +222,7 @@
             <kategori>論説文を読む</kategori>
             <kategori_en>Reading an Essay</kategori_en>
             <kategori_id>Membaca Esai</kategori_id>
-            <nomor>6</nomor>
+            <nomor>11</nomor>
             <judul_jp>里山について（１）</judul_jp>
             <judul_en>Satoyama (1)</judul_en>
             <judul_id>Tentang Satoyama (1)</judul_id>
@@ -242,7 +242,7 @@
             <kategori>論説文を読む</kategori>
             <kategori_en>Reading an Essay</kategori_en>
             <kategori_id>Membaca Esai</kategori_id>
-            <nomor>6</nomor>
+            <nomor>12</nomor>
             <judul_jp>里山について（２）</judul_jp>
             <judul_en>Satoyama (2)</judul_en>
             <judul_id>Tentang Satoyama (2)</judul_id>
@@ -261,7 +261,7 @@
             <kategori>ビジネス場面の会話</kategori>
             <kategori_en>Conversation in a Business Setting</kategori_en>
             <kategori_id>Percakapan dalam Situasi Bisnis</kategori_id>
-            <nomor>7</nomor>
+            <nomor>13</nomor>
             <judul_jp>不動産屋で（１）</judul_jp>
             <judul_en>At a real estate agency (1)</judul_en>
             <judul_id>Di Kantor Properti (1)</judul_id>
@@ -281,7 +281,7 @@
             <kategori>ビジネス場面の会話</kategori>
             <kategori_en>Conversation in a Business Setting</kategori_en>
             <kategori_id>Percakapan dalam Situasi Bisnis</kategori_id>
-            <nomor>7</nomor>
+            <nomor>14</nomor>
             <judul_jp>不動産屋で（２）</judul_jp>
             <judul_en>At a real estate agency (2)</judul_en>
             <judul_id>Di Kantor Properti (2)</judul_id>
@@ -299,7 +299,7 @@
             <kategori>ビジネス場面の会話</kategori>
             <kategori_en>Conversation in a Business Setting</kategori_en>
             <kategori_id>Percakapan dalam Situasi Bisnis</kategori_id>
-            <nomor>8</nomor>
+            <nomor>15</nomor>
             <judul_jp>就職の面接</judul_jp>
             <judul_en>A job interview</judul_en>
             <judul_id>Wawancara Kerja</judul_id>
@@ -320,7 +320,7 @@
             <kategori>友達同士の会話</kategori>
             <kategori_en>A Conversation with a Friend</kategori_en>
             <kategori_id>Percakapan dengan Teman</kategori_id>
-            <nomor>9</nomor>
+            <nomor>16</nomor>
             <judul_jp>お花見（１）</judul_jp>
             <judul_en>Cherry blossom viewing (1)</judul_en>
             <judul_id>Menonton Bunga Sakura (1)</judul_id>
@@ -339,7 +339,7 @@
             <kategori>友達同士の会話</kategori>
             <kategori_en>A Conversation with a Friend</kategori_en>
             <kategori_id>Percakapan dengan Teman</kategori_id>
-            <nomor>9</nomor>
+            <nomor>17</nomor>
             <judul_jp>お花見（２）</judul_jp>
             <judul_en>Cherry blossom viewing (2)</judul_en>
             <judul_id>Menonton Bunga Sakura (2)</judul_id>
@@ -356,7 +356,7 @@
             <kategori>ストーリーを読む</kategori>
             <kategori_en>Reading a Story</kategori_en>
             <kategori_id>Membaca Cerita</kategori_id>
-            <nomor>10</nomor>
+            <nomor>18</nomor>
             <judul_jp>ゆきの選択（１）</judul_jp>
             <judul_en>Yuki's choice (1)</judul_en>
             <judul_id>Pilihan Yuki (1)</judul_id>
@@ -377,7 +377,7 @@
             <kategori>ストーリーを読む</kategori>
             <kategori_en>Reading a Story</kategori_en>
             <kategori_id>Membaca Cerita</kategori_id>
-            <nomor>10</nomor>
+            <nomor>19</nomor>
             <judul_jp>ゆきの選択（２）</judul_jp>
             <judul_en>Yuki's choice (2)</judul_en>
             <judul_id>Pilihan Yuki (2)</judul_id>
@@ -396,7 +396,7 @@
             <kategori>友達同士の会話</kategori>
             <kategori_en>A Conversation with a Friend</kategori_en>
             <kategori_id>Percakapan dengan Teman</kategori_id>
-            <nomor>11</nomor>
+            <nomor>20</nomor>
             <judul_jp>友だちのお見舞い（１）</judul_jp>
             <judul_en>Visiting a sick friend (1)</judul_en>
             <judul_id>Menjenguk Teman yang Sakit (1)</judul_id>
@@ -418,7 +418,7 @@
             <kategori>友達同士の会話</kategori>
             <kategori_en>A Conversation with a Friend</kategori_en>
             <kategori_id>Percakapan dengan Teman</kategori_id>
-            <nomor>11</nomor>
+            <nomor>21</nomor>
             <judul_jp>友だちのお見舞い（２）</judul_jp>
             <judul_en>Visiting a sick friend (2)</judul_en>
             <judul_id>Menjenguk Teman yang Sakit (2)</judul_id>
@@ -959,7 +959,7 @@ B：雪だから、遅れるのはしょうがないよ。</teks>
 			<kategori>エッセーを読む</kategori>
 			<kategori_en>Reading an Essay</kategori_en>
 			<kategori_id>Membaca Esai</kategori_id>
-			<nomor>1</nomor>
+			<nomor>2</nomor>
 			<judul>初めての富士登山（２）</judul>
 			<judul_en>First climb up Mt. Fuji (2)</judul_en>
 			<judul_id>Pendakian Pertama ke Gunung Fuji (2)</judul_id>
@@ -1628,7 +1628,473 @@ B：雪だから、遅れるのはしょうがないよ。</teks>
 		</matome>
 	</bab2_content>
 
+	<!-- KONTEN BAB 2 - Pages 30-36 -->
+	<bab3_content>
+		<!-- PAGE 30 - Header & Dekiru Koto -->
+		<header halaman="30">
+			<kategori>ペットや家族を紹介する</kategori>
+			<kategori_en>Introducing Pets and Family</kategori_en>
+			<kategori_id>Memperkenalkan Hewan Peliharaan dan Keluarga</kategori_id>
+			<nomor>3</nomor>
+			<judul>ぼくの犬、クロ（１）</judul>
+			<judul_en>My pet dog Kuro (1)</judul_en>
+			<judul_id>Anjingku, Kuro (1)</judul_id>
 
+			<dekiru_koto>
+				<judul>できること</judul>
+				<judul_id>Yang Bisa Dilakukan</judul_id>
+				<item>
+					<jp>ペットや家族を簡単に紹介したり、自分との関係を説明したりすることができる。</jp>
+					<en>Present basic information about your pets and family, and explain your relationships with them.</en>
+					<id>Dapat memperkenalkan hewan peliharaan dan keluarga secara sederhana, serta menjelaskan hubungan dengan mereka.</id>
+				</item>
+			</dekiru_koto>
+
+			<content type="essay">
+				<teks>ぼくはいつも夜、クロを散歩に連れていく。クロを飼い始めたのは3年前だ。色が黒いから、クロって名前をつけた。
+
+	最初、両親は犬を飼うことに反対だったが、何度も頼んで、やっと飼わせてもらった。そのかわり、雨の日も風の日も毎日必ず散歩すると約束させられた。だからクロの散歩はぼくの日課だ。
+
+	ぼくがうちに帰ると、クロは早く散歩に行きたがって「クーンクーン」と鳴く。ぼくがひもを持つと、ぼくのところへ来て、うれしそうにしっぽをふる。そして、ひもをつけて、玄関を出たとたん、クロは全速力で走り出す。</teks>
+				<teks_id>Saya selalu mengajak Kuro jalan-jalan di malam hari. Saya mulai memelihara Kuro 3 tahun yang lalu. Karena warnanya hitam, saya memberinya nama Kuro.
+
+	Awalnya, orang tua saya menolak untuk memelihara anjing, tetapi setelah meminta berkali-kali, akhirnya saya diizinkan memeliharanya. Sebagai gantinya, saya disuruh berjanji untuk selalu mengajaknya jalan-jalan setiap hari baik saat hujan maupun angin. Jadi mengajak Kuro jalan-jalan adalah rutinitas harian saya.
+
+	Ketika saya pulang ke rumah, Kuro ingin segera pergi jalan-jalan dan menggonggong "guun guun". Ketika saya memegang tali, dia datang ke tempat saya dan menggoyangkan ekornya dengan gembira. Dan, setelah tali dipasang, segera setelah keluar dari pintu depan, Kuro berlari dengan kecepatan penuh.</teks_id>
+			</content>
+		</header>
+
+		<!-- SUB BAB 11: クロって名前 - Page 30-31 -->
+		<sub_bab id="11" halaman="30">
+			<nomor>11</nomor>
+			<judul>クロって名前</judul>
+			<judul_id>Nama Kuro</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～って」は、名前を表す「～という」のかわりに使う。</jp>
+					<en>Use "～って" in place of "～という" to give a name.</en>
+					<id>Gunakan "~tte" sebagai pengganti "~to iu" untuk menyebutkan nama.</id>
+				</penjelasan>
+				<pola>N1 + って + N2</pola>
+				<pola_id>Kata Benda 1 + tte + Kata Benda 2</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>さっき、上田さんって人が訪ねてきましたよ。お知り合いですか。</jp>
+						<id>Baru saja ada orang bernama Ueda-san yang datang mengunjungi. Apakah Anda kenal?</id>
+					</item>
+					<item no="2">
+						<jp>花粉症って病気、アレルギーが原因なんだよね。</jp>
+						<id>Penyakit yang disebut hay fever, penyebabnya adalah alergi ya.</id>
+					</item>
+					<item no="3">
+						<jp>A：長野県の戸隠ってところ、知ってる？ B：うん。最近人気だって聞いたよ。</jp>
+						<id>A: Apakah kamu tahu tempat yang disebut Togakushi di Prefektur Nagano? B: Iya. Aku dengar akhir-akhir ini populer.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<halaman_ref>p.35 ～って</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 12: 飼わせてもらった - Page 31-32 -->
+		<sub_bab id="12" halaman="31">
+			<nomor>12</nomor>
+			<judul>飼わせてもらった</judul>
+			<judul_id>Dizinkan Memelihara</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～させてもらう」は、自分がすることのためにほかの人の許可を取るときに使う。許可してくれたことに感謝するときにも使う。「～させてくれる」の形もよく使われる。</jp>
+					<en>Use "～させてもらう" when you obtain permission from another person to do something. You can also use it when you express gratitude for receiving permission. The "～させてくれる" form is also often used.</en>
+					<id>Gunakan "~sasete morau" ketika meminta izin orang lain untuk melakukan sesuatu. Juga digunakan untuk mengungkapkan rasa terima kasih atas izin yang diberikan. Bentuk "~sasete kureru" juga sering digunakan.</id>
+				</penjelasan>
+				<pola>V-させる て + [もらう/くれる]</pola>
+				<pola_id>Kata Kerja bentuk causative + te + [morau/kureru]</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>この会社は自分の意見を自由に言わせてくれる。</jp>
+						<id>Perusahaan ini memperbolehkan saya mengemukakan pendapat dengan bebas.</id>
+					</item>
+					<item no="2">
+						<jp>高校生のとき、アルバイトをしたいと父に言ったが、させてもらえなかった。</jp>
+						<id>Saat SMA, saya bilang ingin kerja paruh waktu kepada ayah, tetapi tidak diizinkan.</id>
+					</item>
+					<item no="3">
+						<jp>上司は何事も経験だと言って、私を海外研修に行かせてくれた。</jp>
+						<id>Atasan bilang segala sesuatu adalah pengalaman, dan mengizinkan saya pergi ke pelatihan di luar negeri.</id>
+					</item>
+					<item no="4">
+						<jp>ここに荷物を置かせてもらってもいいですか。</jp>
+						<id>Bolehkah saya meletakkan barang bawaan di sini?</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal id="1">
+					<teks>子どものとき、ピアノを習いたかったので、母に頼んで（習って・習わせて）もらった。</teks>
+					<jawaban>習わせて</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>スピーチの原稿を日本人の友だちに（直して・直させて）もらった。</teks>
+					<jawaban>直して</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>飲みに行ったときは、先輩たちがいつもお金を（払って・払わせて）くれた。</teks>
+					<jawaban>払って</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>危ないからと言って、両親はバイクの免許を（取って・取らせて）くれなかった。</teks>
+					<jawaban>取らせて</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.78 始めさせていただきます</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 13: 約束させられた - Page 32 -->
+		<sub_bab id="13" halaman="32">
+			<nomor>13</nomor>
+			<judul>約束させられた</judul>
+			<judul_id>Disuruh Berjanji</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～させられる」は、自分がしたくないと思っていることを、他人からするように言われて、しなければならないときに使う。</jp>
+					<en>Use "～させられる" when another person tells you to do something that you do not want to do, but you have to do it anyway.</en>
+					<id>Gunakan "~saserareru" ketika orang lain menyuruh Anda melakukan sesuatu yang tidak ingin Anda lakukan, tetapi Anda harus melakukannya.</id>
+				</penjelasan>
+				<pola>V-る → V-させる（使役形） → V-させられる（使役受身）</pola>
+				<pola_id>Kata Kerja bentuk dasar → bentuk causative → bentuk causative passive</pola_id>
+
+				<tabel_conjugasi>
+					<group name="Iグループ">
+						<item base="飲む" causative="飲ませる" passive="飲まされる／飲ませられる"/>
+						<item base="話す" causative="話させる" passive="話させられる"/>
+					</group>
+					<group name="IIグループ">
+						<item base="食べる" causative="食べさせる" passive="食べさせられる"/>
+					</group>
+					<group name="IIIグループ">
+						<item base="来る" causative="来させる" passive="来させられる"/>
+						<item base="する" causative="させる" passive="させられる"/>
+					</group>
+				</tabel_conjugasi>
+
+				<contoh>
+					<item no="1">
+						<jp>子どものときテストの成績が悪いと、父にトイレそうじをさせられた。</jp>
+						<id>Saat kecil, jika nilai tes buruk, saya disuruh membersihkan toilet oleh ayah.</id>
+					</item>
+					<item no="2">
+						<jp>中学生のとき、先生にグラウンドを何周も走らされた。</jp>
+						<id>Saat SMP, saya disuruh berlari mengelilingi lapangan berkali-kali oleh guru.</id>
+					</item>
+					<item no="3">
+						<jp>学生のとき、いつも先輩に飲み物を買いに行かされた。</jp>
+						<id>Saat masih mahasiswa, saya selalu disuruh membeli minuman oleh senior.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal id="1">
+					<teks>デートのとき、いつも彼女に（待たされる・待たせてもらう）。</teks>
+					<jawaban>待たされる</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>子どものときは野菜が嫌いだったが、母に（食べさせられた・食べさせてもらった）。</teks>
+					<jawaban>食べさせられた</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>先生にお願いして、先生の論文を（読まされた・読ませていただいた）。</teks>
+					<jawaban>読ませていただいた</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>引っ越しの手伝いに行ったら、重い荷物をたくさん（運ばせてもらって・運ばされて）腰が痛くなってしまった。</teks>
+					<jawaban>運ばされて</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.32 ～させられる</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 14: 散歩に行きたがって - Page 32-33 -->
+		<sub_bab id="14" halaman="32">
+			<nomor>14</nomor>
+			<judul>散歩に行きたがって</judul>
+			<judul_id>Ingin Pergi Jalan-Jalan</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～がる」は、その人の気持ちなどが様子や言葉に表れているときに使う。自分の気持ちを言うときは使わないのが普通。</jp>
+					<en>Use "～がる" when a person's feelings or the like are expressed by his or her manner or speech. You normally do not use this expression when you talk about your own feelings.</en>
+					<id>Gunakan "~garu" ketika perasaan seseorang atau sejenisnya diekspresikan melalui tingkah laku atau ucapannya. Biasanya tidak digunakan ketika berbicara tentang perasaan sendiri.</id>
+				</penjelasan>
+				<pola>いA-く／なA-がる／V-ますたい + がる</pola>
+				<pola_id>Kata Sifat i bentuk ku / Kata Sifat na + garu / Kata Kerja bentuk masu+たい + garu</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>彼は試合に負けてくやしがっている。</jp>
+						<id>Dia terlihat kesal karena kalah dalam pertandingan.</id>
+					</item>
+					<item no="2">
+						<jp>わからない言葉があったら、面倒がらないですぐに調べなさい。</jp>
+						<id>Jika ada kata yang tidak dimengerti, jangan malas dan segera cari.</id>
+					</item>
+					<item no="3">
+						<jp>妹は車をほしがっているが、父は絶対許さないと言っている。</jp>
+						<id>Adik perempuan saya ingin mobil, tetapi ayah bilang tidak akan mengizinkan.</id>
+					</item>
+					<item no="4">
+						<jp>田中さんは人気スターのファッションを何でも真似したがる。</jp>
+						<id>Tanaka-sun selalu ingin meniru fashion bintang populer.</id>
+					</item>
+					<item no="5">
+						<jp>寒い日は猫も外へ出たがらない。</jp>
+						<id>Hari dingin, kucing pun tidak ingin keluar.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal id="1">
+					<teks>外食するとき、私はパスタやピザを（食べたがる・食べたい）のに、彼はいつも牛丼屋へ（行きたがる・行きたい）。</teks>
+					<jawaban>食べたい／行きたがる</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>ベランダにハトが来たのでえさをあげたが、（こわがって・こわくて）近づいてこない。</teks>
+					<jawaban>こわがって</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>（恥ずかしがらないで・恥ずかしくなくて）もっと大きい声で話してください。</teks>
+					<jawaban>恥ずかしがらないで</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<plus>
+				<judul>U</judul>
+				<penjelasan>
+					<jp>「～がり」（「暑がり」「寒がり」「こわがり」など）は、よくそのように感じる人という意味の名詞になる。</jp>
+					<en>"～gari" is a noun meaning that the person often feels a certain way, such as in "暑がり", "寒がり" and "こわがり".</en>
+					<id>"~gari" adalah kata benda yang berarti orang tersebut sering merasa tertentu, seperti dalam "suka merasa panas", "suka merasa dingin", dan "penakut".</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>私は寒がりだから、冬が苦手だ。</jp>
+						<id>Saya orang yang tidak tahan dingin, jadi tidak suka musim dingin.</id>
+					</item>
+				</contoh_plus>
+			</plus>
+
+			<halaman_ref>p.33 ～がる</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 15: 玄関を出たとたん - Page 33-34 -->
+		<sub_bab id="15" halaman="33">
+			<nomor>15</nomor>
+			<judul>玄関を出たとたん</judul>
+			<judul_id>Segera Setelah Keluar dari Pintu Depan</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～たとたん…」は、「～」のあとすぐ「…」が起こったという状況を説明するときに使う。</jp>
+					<en>Use "～たとたん…" when you explain a situation in which "…" happened right after "～".</en>
+					<id>Gunakan "~ta totan..." ketika menjelaskan situasi di mana "..." terjadi segera setelah "~".</id>
+				</penjelasan>
+				<pola>V-た + とたん（に）</pola>
+				<pola_id>Kata Kerja bentuk ta + totan (ni)</pola_id>
+				<catatan>※「…」の部分が話者の意志ですることの場合は使わない。</catatan>
+				<catatan_id>※ Jangan gunakan bagian "..." dari ungkapan ini untuk menyatakan niat pembicara tentang masa depan.</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>立ち上がったとたん、目の前が暗くなった。</jp>
+						<id>Segera setelah berdiri, pandangan saya menjadi gelap.</id>
+					</item>
+					<item no="2">
+						<jp>彼女はさっきまで元気がなかったのに、ご飯を食べたとたん元気になった。</jp>
+						<id>Dia tidak bergairah sampai tadi, tetapi segera setelah makan, dia menjadi bersemangat.</id>
+					</item>
+					<item no="3">
+						<jp>彼は、相手が社長だと知ったとたん、急にていねいに話し始めた。</jp>
+						<id>Dia, begitu mengetahui lawan bicaranya adalah direktur, tiba-tiba mulai berbicara dengan sangat sopan.</id>
+					</item>
+				</contoh>
+
+				<contoh_salah>
+					<item>
+						<jp>学校を出たとたん、私は走るつもりだ。</jp>
+						<id>❌ Segera setelah keluar dari sekolah, saya berencana berlari. (Salah karena "..." adalah niat pembicara)</id>
+					</item>
+				</contoh_salah>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal id="1">
+					<teks>うちのレストランがテレビで紹介されたとたん、（テレビのその番組を見ていた・予約の電話がたくさんかかってきた）。</teks>
+					<jawaban>予約の電話がたくさんかかってきた</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>試験が終わったとたん（家へ帰りましょう・教室がうるさくなった）。</teks>
+					<jawaban>教室がうるさくなった</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>画像ファイルを開いたとたんに（フリーズしてしまった・コピーを保存した）。</teks>
+					<jawaban>フリーズしてしまった</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.34 ～たとたん</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 16: 全速力で走り出す - Page 34-35 -->
+		<sub_bab id="16" halaman="34">
+			<nomor>16</nomor>
+			<judul>全速力で走り出す</judul>
+			<judul_id>Berlari dengan Kecepatan Penuh</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～出す」は、何かが急に起きたときや、急に始まったと言うときに使われる。</jp>
+					<en>"～dasu" is used when something happens or starts suddenly.</en>
+					<id>"~dasu" digunakan ketika sesuatu terjadi atau dimulai secara tiba-tiba.</id>
+				</penjelasan>
+				<pola>V-ます + 出す</pola>
+				<pola_id>Kata Kerja bentuk masu + dasu</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>さっきまで笑っていた赤ちゃんが急に泣き出した。</jp>
+						<id>Bayi yang tadi tertawa tiba-tiba menangis.</id>
+					</item>
+					<item no="2">
+						<jp>突然大雨が降り出し、人々はあわてて建物の中に入った。</jp>
+						<id>Tiba-tiba hujan lebat turun, orang-orang bergegas masuk ke dalam gedung.</id>
+					</item>
+					<item no="3">
+						<jp>彼は短気で急に怒り出すから、付き合いにくい。</jp>
+						<id>Dia pemarah dan tiba-tiba marah, jadi sulit diajak bergaul.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 2</jawaban_ref>
+
+				<soal_matching>
+					<item id="1">
+						<teks>医者に言われて</teks>
+						<match>d</match>
+						<teks_match>運動嫌いの父がスポーツクラブに通い出した。</teks_match>
+						<id>Ayah yang tidak suka olahraga mulai pergi ke klub olahraga karena disuruh dokter.</id>
+					</item>
+					<item id="2">
+						<teks>仕事に夢中だと思っていた娘が</teks>
+						<match>c</match>
+						<teks_match>急に結婚すると言い出した。</teks_match>
+						<id>Anak perempuan yang dianggap sibuk kerja tiba-tiba bilang ingin menikah.</id>
+					</item>
+					<item id="3">
+						<teks>コンサートが終わると</teks>
+						<match>a</match>
+						<teks_match>観客はいっせいに駅に向かって歩き出した。</teks_match>
+						<id>Setelah konser selesai, penonton serentak berjalan menuju stasiun.</id>
+					</item>
+					<item id="4">
+						<teks>ベルが鳴って、ドアが閉まって</teks>
+						<match>b</match>
+						<teks_match>私たちが乗った電車はゆっくり動き出した。</teks_match>
+						<id>Setelah bel berbunyi dan pintu tertutup, kereta yang kami naiki perlahan mulai bergerak.</id>
+					</item>
+				</soal_matching>
+			</yatte_miyou>
+
+			<halaman_ref>p.35 ～出す</halaman_ref>
+		</sub_bab>
+
+		<!-- CHECK - Page 36 -->
+		<check halaman="36">
+			<judul>Check</judul>
+			<judul_id>Cek</judul_id>
+			<jawaban_ref>別冊P. 2</jawaban_ref>
+
+			<bagian1>
+				<instruksi>適当な形に変えて、（　　）に入れなさい。</instruksi>
+				<instruksi_id>Ubah ke bentuk yang tepat dan isi (　　).</instruksi_id>
+
+				<soal id="1">
+					<teks>就職したら、父に頼んで、一人暮らしを（　　　　　　）つもりだ。</teks>
+					<jawaban>させてもらう</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>一人暮らしをしても、1週間に1回は必ずうちへ帰るように、父に約束（　　　　　　）。</teks>
+					<jawaban>させられた</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>高橋さんはいつも政治や経済などの難しい話を（　　　　　　）のでちょっと困る。</teks>
+					<jawaban>したがる</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>人気俳優が舞台に登場（　　　　　　）、観客はいっせいに彼のほうを見た。</teks>
+					<jawaban>したとたん</jawaban>
+				</soal>
+				<soal id="5">
+					<teks>いつもそうじしない息子が、急にそうじを（　　　　　　）ので、変だと思ったら、明日彼女が来るからだった。</teks>
+					<jawaban>し出した</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>させられた</item>
+					<item>させてもらう</item>
+					<item>したがる</item>
+					<item>し出した</item>
+					<item>したとたん</item>
+				</pilihan_jawaban>
+			</bagian1>
+		</check>
+	</bab3_content>
+	
 
 	<!-- N2「できること」リスト - Pages 227-231 -->
 	<can_do_list halaman="227-231">
