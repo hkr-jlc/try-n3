@@ -2979,6 +2979,2888 @@ B：雪だから、遅れるのはしょうがないよ。</teks>
 	</bab5_content>
 	
 	<!-- KONTEN BAB 6 - Pages 49-56 -->
+	<bab6_content>
+		<!-- PAGE 49 - Header & Dekiru Koto -->
+		<header halaman="49">
+			<kategori>イベントなどについて、経験者の感想や活動内容から、様子がイメージできる。</kategori>
+			<kategori_en>Imagine what an event was like from a participant's impressions or activities they did.</kategori_en>
+			<kategori_id>Dapat membayangkan seperti apa suatu acara dari kesan atau aktivitas yang dilakukan peserta.</kategori_id>
+			<nomor>6</nomor>
+			<judul>市民農園の募集（２）</judul>
+			<judul_en>Applicants wanted for community garden (2)</judul_en>
+			<judul_id>Pendaftaran Kebun Rakyat (2)</judul_id>
+
+			<dekiru_koto>
+				<judul>できること</judul>
+				<judul_id>Yang Bisa Dilakukan</judul_id>
+				<item>
+					<jp>イベントなどについて、経験者の感想や活動内容から、様子がイメージできる。</jp>
+					<en>Imagine what an event was like from a participant's impressions or activities they did.</en>
+					<id>Dapat membayangkan seperti apa suatu acara dari kesan atau aktivitas yang dilakukan peserta.</id>
+				</item>
+			</dekiru_koto>
+
+			<content type="speech" cd="13">
+				<teks>家族や仲間と一緒に収穫した野菜を食べるのは最高です。野菜作りを通して、自然に親しむこともできるし、バーベキューパーティーのような楽しいイベントもあります。実際に利用されている方のお話によれば、思ったより簡単にできるし、それに子どもと話す機会が増えて楽しかったということです。
+	農園の活動について詳しいことは、ホームページでも紹介しています。皆さん、一緒に野菜を作りましょう！</teks>
+				<teks_id>Makan sayuran yang dipanen bersama keluarga dan teman adalah yang terbaik. Melalui bertanam sayur, kita juga bisa akrab dengan alam, dan ada acara seru seperti pesta barbekyu. Menurut cerita orang yang benar-benar memanfaatkannya, ternyata lebih mudah dari yang dibayangkan, dan selain itu bertambahnya kesempatan untuk berbicara dengan anak-anak membuatnya menyenangkan.
+	Untuk detail tentang aktivitas kebun, juga diperkenalkan di homepage. Mari kita bertanam sayur bersama-sama!</teks_id>
+			</content>
+		</header>
+
+		<!-- SUB BAB 26: 野菜作りを通して - Page 49 -->
+		<sub_bab id="26" halaman="49">
+			<nomor>26</nomor>
+			<judul>野菜作りを通して</judul>
+			<judul_id>Melalui Bertanam Sayur</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～を通して／～を通じて」は、直接ではなく、人、手段、物事が間に入って何かをすることを表す。</jp>
+					<en>"～を通して／～を通じて" says that rather than doing something directly, an action was taken by way of another person, means or thing.</en>
+					<id>"~o tooshite / ~o tsuujite" menyatakan bahwa daripada melakukan sesuatu secara langsung, suatu tindakan dilakukan melalui orang lain, sarana, atau hal lain.</id>
+				</penjelasan>
+				<pola>N + [を通して / を通じて]</pola>
+				<pola_id>Kata Benda + [o tooshite / o tsuujite]</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>現在はインターネットを通して、すぐに世界中にニュースが広まる。</jp>
+						<id>Sekarang, melalui internet, berita segera menyebar ke seluruh dunia.</id>
+					</item>
+					<item no="2">
+						<jp>私たちは読書を通していろいろな人の考え方を知ることができます。</jp>
+						<id>Kita dapat mengetahui cara berpikir berbagai orang melalui membaca.</id>
+					</item>
+					<item no="3">
+						<jp>取材は、弁護士を通して申し込んでください。</jp>
+						<id>Untuk wawancara, mohon ajukan melalui pengacara.</id>
+					</item>
+					<item no="4">
+						<jp>私は海外留学の経験を通じて多くのことを学んだ。</jp>
+						<id>Saya belajar banyak melalui pengalaman studi di luar negeri.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<halaman_ref>52 四季を通じて</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 27: パーティーのような楽しいイベント - Page 50 -->
+		<sub_bab id="27" halaman="50">
+			<nomor>27</nomor>
+			<judul>パーティーのような楽しいイベント</judul>
+			<judul_id>Acara Seru Seperti Pesta</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～のような／～のように」は、代表的な例をあげるときに使う。</jp>
+					<en>Use "～のような／～のように" when you give a typical example.</en>
+					<id>Gunakan "~no you na / ~no you ni" ketika memberikan contoh yang representatif.</id>
+				</penjelasan>
+				<pola>N + [のように / のような + N]</pola>
+				<pola_id>Kata Benda + [no you ni / no you na + Kata Benda]</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>インフルエンザのようなほかの人にうつる病気になったら、治るまで学校へ来てはいけないことになっています。</jp>
+						<id>Jika terkena penyakit menular seperti influenza, Anda tidak boleh datang ke sekolah sampai sembuh.</id>
+					</item>
+					<item no="2">
+						<jp>われわれのようなプロのスポーツ選手には食事も練習と同じぐらい大切です。</jp>
+						<id>Bagi atlet profesional seperti kami, makanan juga sama pentingnya dengan latihan.</id>
+					</item>
+					<item no="3">
+						<jp>梅雨のように雨の多い季節は洗濯物が乾かなくて困ります。</jp>
+						<id>Musim dengan banyak hujan seperti musim hujan merepotkan karena pakaian tidak kering.</id>
+					</item>
+					<item no="4">
+						<jp>体力がないので、テニスのように激しいスポーツはできません。</jp>
+						<id>Karena tidak memiliki stamina, saya tidak bisa melakukan olahraga intens seperti tenis.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 3</jawaban_ref>
+
+				<soal id="1">
+					<teks>世の中には ______ のように人の仕事を手伝って働いている動物がいる。</teks>
+					<jawaban>牛や馬</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>______ のような大都市では車より電車や地下鉄のほうが便利ですよ。</teks>
+					<jawaban>東京</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>______ のような大きいものを捨てるときは区役所に連絡して取りに来てもらわなければなりません。</teks>
+					<jawaban>ベッド</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>______ のようなカロリーの高いものを食べすぎると体に悪いですよ。</teks>
+					<jawaban>トンカツ</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>東京</item>
+					<item>牛や馬</item>
+					<item>トンカツ</item>
+					<item>ベッド</item>
+				</pilihan_jawaban>
+			</yatte_miyou>
+
+			<plus>
+				<judul>Plus ～みたい</judul>
+				<judul_id>Plus ~Mitai</judul_id>
+				<penjelasan>
+					<jp>友だちとの会話では「～みたい」も使う。</jp>
+					<en>In conversation with friends, "～みたい" is also used.</en>
+					<id>Dalam percakapan dengan teman, "~mitai" juga digunakan.</id>
+				</penjelasan>
+				<pola>N + みたい</pola>
+				<pola_id>Kata Benda + mitai</pola_id>
+
+				<contoh_plus>
+					<item no="1">
+						<jp>ピアノみたいに大きくて重いものがあると、引っ越しが大変だね。</jp>
+						<id>Jika ada barang besar dan berat seperti piano, pindahan akan sulit.</id>
+					</item>
+					<item no="2">
+						<jp>キュウリやトマトみたいな夏野菜は育てやすいそうだ。</jp>
+						<id>Katanya sayuran musim panas seperti mentimun dan tomat mudah ditanam.</id>
+					</item>
+					<item no="3">
+						<jp>冬は沖縄みたいな暖かいところに旅行に行きたいな。</jp>
+						<id>Di musim dingin, aku ingin pergi berlibur ke tempat hangat seperti Okinawa.</id>
+					</item>
+				</contoh_plus>
+
+				<halaman_ref>42 本当のハムのように, 80 雪が降っているかのように</halaman_ref>
+			</plus>
+		</sub_bab>
+
+		<!-- SUB BAB 28: 利用されている方のお話によれば - Page 51 -->
+		<sub_bab id="28" halaman="51">
+			<nomor>28</nomor>
+			<judul>利用されている方のお話によれば</judul>
+			<judul_id>Menurut Cerita Orang yang Memanfaatkannya</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～によれば／～によると」は、情報を何で知ったかを言いたいときに使う。文の終わりは「～そうだ／～ということだ」などの形になる。</jp>
+					<en>Use "～によれば／～によると" when you want to say where you got some information from. Patterns used at the end of the sentence include "～そうだ／～ということだ".</en>
+					<id>Gunakan "~ni yoreba / ~ni yoru to" ketika ingin mengatakan dari mana Anda mendapat informasi. Pola yang digunakan di akhir kalimat meliputi "~sou da / ~to iu koto da".</id>
+				</penjelasan>
+				<pola>N + [によれば / によると]</pola>
+				<pola_id>Kata Benda + [ni yoreba / ni yoru to]</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>最近の調査によれば、病気ではないが不健康な人が増えているそうだ。</jp>
+						<id>Menurut survei terbaru, katanya orang yang tidak sakit tetapi tidak sehat semakin bertambah.</id>
+					</item>
+					<item no="2">
+						<jp>今朝の天気予報によると、今週はずっと晴れるそうだ。</jp>
+						<id>Menurut prakiraan cuaca pagi ini, katanya minggu ini akan cerah terus.</id>
+					</item>
+					<item no="3">
+						<jp>観光ガイドブックによれば、この町では毎週日曜日に朝市が開かれるらしい。</jp>
+						<id>Menurut buku panduan wisata, sepertinya di kota ini pasar pagi dibuka setiap hari Minggu.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 3</jawaban_ref>
+
+				<soal id="1">
+					<teks>ネットの掲示板（によれば・によって）さくら商店街のレストランのランチは安くておいしいということだ。</teks>
+					<jawaban>によれば</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>わが社は新しいシステムの導入（によれば・によって）全社員の残業時間が大幅に短縮された。</teks>
+					<jawaban>によって</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>アンケート（によれば・によって）このホテルは利用者の90％が非常に満足しているそうだ。</teks>
+					<jawaban>によれば</jawaban>
+				</soal>
+			</yatte_miyou>
+		</sub_bab>
+
+		<!-- SUB BAB 29: 楽しかったということです - Page 52 -->
+		<sub_bab id="29" halaman="52">
+			<nomor>29</nomor>
+			<judul>楽しかったということです</judul>
+			<judul_id>Katanya Menyenangkan</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～ということだ／～とのことだ」は、聞いた情報の内容をほかの人に伝えるときに使う。</jp>
+					<en>Use "～ということだ／～とのことだ" when you tell another person some information you heard.</en>
+					<id>Gunakan "~to iu koto da / ~to no koto da" ketika menyampaikan informasi yang didengar kepada orang lain.</id>
+				</penjelasan>
+				<pola>PI + [ということだ / とのことだ]</pola>
+				<pola_id>Predikat + [to iu koto da / to no koto da]</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>ニュースでは、今年は水不足の心配はないということです。</jp>
+						<id>Di berita, dikatakan bahwa tahun ini tidak ada kekhawatiran kekurangan air.</id>
+					</item>
+					<item no="2">
+						<jp>部長の話によると、今年の新入社員の数は去年の倍だということだ。</jp>
+						<id>Menurut cerita kepala bagian, jumlah karyawan baru tahun ini adalah dua kali lipat tahun lalu.</id>
+					</item>
+					<item no="3">
+						<jp>高橋さんから電話がありました。またあとで電話するとのことです。</jp>
+						<id>Ada telepon dari Takahashi-san. Dikatakan bahwa akan menelepon lagi nanti.</id>
+					</item>
+					<item no="4">
+						<jp>お孫さんがお生まれになったとのこと、おめでとうございます。</jp>
+						<id>Selamat atas kelahiran cucu Anda.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 3</jawaban_ref>
+
+				<soal_matching>
+					<item id="1">
+						<teks>山田さんからメールがあって、道が混んでいるので、</teks>
+						<match>c</match>
+						<teks_match>到着が少し遅れるとのことです。</teks_match>
+						<id>Ada email dari Yamada-san, karena jalan macet, dikatakan akan sedikit terlambat tiba.</id>
+					</item>
+					<item id="2">
+						<teks>東京は雪が降っているということですが、</teks>
+						<match>d</match>
+						<teks_match>電車はちゃんと動いていますか。</teks_match>
+						<id>Dikatakan bahwa di Tokyo sedang turun salju, apakah kereta berjalan dengan baik?</id>
+					</item>
+					<item id="3">
+						<teks>来月日本にいらっしゃるとのことで、</teks>
+						<match>a</match>
+						<teks_match>お会いできるのを楽しみにしております。</teks_match>
+						<id>Dikatakan bahwa akan datang ke Jepang bulan depan, saya menantikan bisa bertemu.</id>
+					</item>
+					<item id="4">
+						<teks>事故の原因を調べてもらいましたが、</teks>
+						<match>b</match>
+						<teks_match>機械に異常はなかったということです。</teks_match>
+						<id>Saya minta untuk menyelidiki penyebab kecelakaan, dikatakan bahwa tidak ada abnormalitas pada mesin.</id>
+					</item>
+				</soal_matching>
+			</yatte_miyou>
+		</sub_bab>
+
+		<!-- SUB BAB 30: 農園の活動について詳しいことは - Page 52 -->
+		<sub_bab id="30" halaman="52">
+			<nomor>30</nomor>
+			<judul>農園の活動について詳しいことは</judul>
+			<judul_id>Untuk Detail tentang Aktivitas Kebun</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～について」は、話題にしたり、考えたり、調べたりする内容を言うときに使う。</jp>
+					<en>Use "～について" when you introduce a topic or say what someone is thinking about or investigating.</en>
+					<id>Gunakan "~ni tsuite" ketika memperkenalkan topik atau mengatakan apa yang sedang dipikirkan atau diselidiki seseorang.</id>
+				</penjelasan>
+				<pola>N + [について（は／も） / についての + N]</pola>
+				<pola_id>Kata Benda + [ni tsuite (wa/mo) / ni tsuite no + Kata Benda]</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>兄は大学院で、アジアの経済について研究しています。</jp>
+						<id>Kakak saya sedang meneliti tentang ekonomi Asia di perguruan tinggi.</id>
+					</item>
+					<item no="2">
+						<jp>今年度の求人情報については、ホームページをご覧ください。</jp>
+						<id>Untuk informasi lowongan kerja tahun ini, silakan lihat homepage.</id>
+					</item>
+					<item no="3">
+						<jp>部屋を借りるときは安全面についても確認したほうがいい。</jp>
+						<id>Saat menyewa kamar, sebaiknya periksa juga aspek keamanannya.</id>
+					</item>
+					<item no="4">
+						<jp>この図書館には、機械工学についての本がたくさんある。</jp>
+						<id>Di perpustakaan ini, ada banyak buku tentang teknik mesin.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 3</jawaban_ref>
+
+				<soal id="1">
+					<teks>あなたの趣味（について・についての）話してください。</teks>
+					<jawaban>について</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>製品（について・についての）ご質問はサポートセンターにご連絡ください。</teks>
+					<jawaban>について</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>わが社の経営方針（について・に対して）説明します。</teks>
+					<jawaban>について</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>毎年、学校では自転車の利用者（について・に対して）交通安全指導を行っている。</teks>
+					<jawaban>に対して</jawaban>
+				</soal>
+			</yatte_miyou>
+		</sub_bab>
+
+		<!-- CHECK - Page 53 -->
+		<check halaman="53">
+			<judul>Check</judul>
+			<judul_id>Cek</judul_id>
+			<jawaban_ref>別冊P. 4</jawaban_ref>
+
+			<bagian1>
+				<instruksi>適当な形に変えて、（　　）に入れなさい。</instruksi>
+				<instruksi_id>Ubah ke bentuk yang tepat dan isi (　　).</instruksi_id>
+
+				<soal id="1">
+					<teks>卒業論文のテーマ（　　　　　　）先生に相談したいと思っている。</teks>
+					<jawaban>について</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>A：どこへ旅行に行きたいですか。
+	B：パリ（　　　　　　）すばらしい美術館がある町へ行きたいですね。</teks>
+					<jawaban>のような</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>先生の話（　　　　　　）、来週は大きいテストが3つもあるそうだ。</teks>
+					<jawaban>によれば</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>私は、共通の友人（　　　　　　）妻と知り合いました。</teks>
+					<jawaban>を通じて</jawaban>
+				</soal>
+				<soal id="5">
+					<teks>台風が近づいている（　　　　　　）から、皆さん十分気をつけてください。</teks>
+					<jawaban>ということで</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>を通じて</item>
+					<item>について</item>
+					<item>ということで</item>
+					<item>によれば</item>
+					<item>のような</item>
+				</pilihan_jawaban>
+			</bagian1>
+		</check>
+
+		<!-- REVIEW QUESTIONS - Pages 54-56 -->
+		<matome halaman="54-56">
+			<judul>まとめの問題</judul>
+			<judul_id>Soal-soal Ringkasan</judul_id>
+			<jawaban_ref>別冊P. 14</jawaban_ref>
+
+			<mondai1 type="文法形式の判断">
+				<judul>問題1 〈文法形式の判断〉</judul>
+				<instruksi>次の文の（　　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。</instruksi>
+
+				<soal id="1">
+					<teks>彼の意見（　　）反対する人はだれもいなかった。</teks>
+					<pilihan id="1">にたいする</pilihan>
+					<pilihan id="2">にたいして</pilihan>
+					<pilihan id="3">について</pilihan>
+					<pilihan id="4">についての</pilihan>
+					<jawaban>3</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>父の店でもコンピューター（　　）商品管理を行っている。</teks>
+					<pilihan id="1">によると</pilihan>
+					<pilihan id="2">によれば</pilihan>
+					<pilihan id="3">による</pilihan>
+					<pilihan id="4">によったら</pilihan>
+					<jawaban>3</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>今朝のニュース（　　）、昨日高速道路で大事故があったそうだ。</teks>
+					<pilihan id="1">によれば</pilihan>
+					<pilihan id="2">によって</pilihan>
+					<pilihan id="3">について</pilihan>
+					<pilihan id="4">をつうじて</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>部長の指示（　　）仕事を進めたが、うまくいかなかった。</teks>
+					<pilihan id="1">どおりに</pilihan>
+					<pilihan id="2">とおりに</pilihan>
+					<pilihan id="3">にたいして</pilihan>
+					<pilihan id="4">にたいしての</pilihan>
+					<jawaban>2</jawaban>
+				</soal>
+				<soal id="5">
+					<teks>見学を希望する場合は、1週間前までに担当者（　　）申し込んでください。</teks>
+					<pilihan id="1">について</pilihan>
+					<pilihan id="2">のために</pilihan>
+					<pilihan id="3">のとおりに</pilihan>
+					<pilihan id="4">をつうじて</pilihan>
+					<jawaban>4</jawaban>
+				</soal>
+				<soal id="6">
+					<teks>兄は工業ロボット（　　）研究している。</teks>
+					<pilihan id="1">についての</pilihan>
+					<pilihan id="2">について</pilihan>
+					<pilihan id="3">にたいして</pilihan>
+					<pilihan id="4">にたいしての</pilihan>
+					<jawaban>2</jawaban>
+				</soal>
+				<soal id="7">
+					<teks>インフルエンザが流行している（　　）、お見舞いの方にもマスクをしていただくことになっています。</teks>
+					<pilihan id="1">と</pilihan>
+					<pilihan id="2">ように</pilihan>
+					<pilihan id="3">という</pilihan>
+					<pilihan id="4">ため</pilihan>
+					<jawaban>4</jawaban>
+				</soal>
+				<soal id="8">
+					<teks>私の国は暑いので、スキー（　　）冬のスポーツは一度もしたことがないんです。</teks>
+					<pilihan id="1">のとおりに</pilihan>
+					<pilihan id="2">のような</pilihan>
+					<pilihan id="3">について</pilihan>
+					<pilihan id="4">にたいして</pilihan>
+					<jawaban>2</jawaban>
+				</soal>
+			</mondai1>
+
+			<mondai2 type="文の組み立て">
+				<judul>問題2 〈文の組み立て〉</judul>
+				<instruksi>次の文の★に入る最もよいものを1・2・3・4から一つ選びなさい。</instruksi>
+
+				<soal id="1">
+					<teks>昨日私の大学で、＿＿＿　＿＿＿　★　＿＿＿　開かれた。</teks>
+					<pilihan id="1">について</pilihan>
+					<pilihan id="2">考える</pilihan>
+					<pilihan id="3">アジア経済</pilihan>
+					<pilihan id="4">国際会議が</pilihan>
+					<jawaban>2</jawaban>
+					<urutan>3 1 2 4</urutan>
+				</soal>
+				<soal id="2">
+					<teks>祖父は会社では厳しい社長だが、＿＿＿　＿＿＿　★　＿＿＿　優しい。</teks>
+					<pilihan id="1">に対しては</pilihan>
+					<pilihan id="2">私たち</pilihan>
+					<pilihan id="3">孫の</pilihan>
+					<pilihan id="4">とても</pilihan>
+					<jawaban>1</jawaban>
+					<urutan>3 2 1 4</urutan>
+				</soal>
+				<soal id="3">
+					<teks>昨日見た映画は、＿＿＿　＿＿＿　★　＿＿＿　なった。</teks>
+					<pilihan id="1">予想した</pilihan>
+					<pilihan id="2">私が</pilihan>
+					<pilihan id="3">結末に</pilihan>
+					<pilihan id="4">とおりの</pilihan>
+					<jawaban>4</jawaban>
+					<urutan>2 1 4 3</urutan>
+				</soal>
+			</mondai2>
+
+			<mondai3 type="文章の文法">
+				<judul>問題3 〈文章の文法〉</judul>
+				<instruksi>次の文章を読んで、文章全体の内容を考えて、1から4の中に入る最もよいものを、1・2・3・4から一つ選びなさい。</instruksi>
+
+				<bacaan>
+					<teks>バレンタインデーにチョコレートを贈る習慣（　1　）、女性にアンケートを行ったら、「続けたい」が「やめたい」を上回った。
+	いちばん好きな人には特別に手作りのチョコや、値段の高いチョコを贈るというのは予想（　2　）だが、それ以外の人に贈る場合はどうなのだろうか。
+	働いている人は、「義理チョコ」（　3　）、職場の人間関係がよくなればいいと答える人が多かった。
+	また、女子高校生の回答（　4　）、男子に贈らないで、クラスの女の子に「友チョコ」を贈ることが多いということだ。
+	チョコレートの贈り方は世代で違うようだ。</teks>
+				</bacaan>
+
+				<soal id="1">
+					<pilihan id="1">について</pilihan>
+					<pilihan id="2">についての</pilihan>
+					<pilihan id="3">にたいして</pilihan>
+					<pilihan id="4">にたいしての</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="2">
+					<pilihan id="1">とおり</pilihan>
+					<pilihan id="2">どおり</pilihan>
+					<pilihan id="3">をとおして</pilihan>
+					<pilihan id="4">をとおって</pilihan>
+					<jawaban>2</jawaban>
+				</soal>
+				<soal id="3">
+					<pilihan id="1">について</pilihan>
+					<pilihan id="2">によって</pilihan>
+					<pilihan id="3">によると</pilihan>
+					<pilihan id="4">についての</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="4">
+					<pilihan id="1">によって</pilihan>
+					<pilihan id="2">によっての</pilihan>
+					<pilihan id="3">によると</pilihan>
+					<pilihan id="4">について</pilihan>
+					<jawaban>3</jawaban>
+				</soal>
+			</mondai3>
+
+			<mondai4 type="聴解">
+				<judul>問題4 〈聴解〉</judul>
+
+				<bagian1>
+					<instruksi>この問題では、まず質問を聞いてください。そのあと、問題用紙を見てください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。</instruksi>
+
+					<soal id="1" cd="14">
+						<pilihan id="1">ストレス解消ができたこと</pilihan>
+						<pilihan id="2">野菜の育て方がわかったこと</pilihan>
+						<pilihan id="3">トマトとナスがとれたこと</pilihan>
+						<pilihan id="4">体調がよくなったこと</pilihan>
+					</soal>
+					<soal id="2" cd="15">
+						<pilihan id="1">遅刻するので困ると思っている</pilihan>
+						<pilihan id="2">本当に迷惑だと思っている</pilihan>
+						<pilihan id="3">しかたないと思っている</pilihan>
+						<pilihan id="4">とてもよかったと思っている</pilihan>
+					</soal>
+				</bagian1>
+
+				<bagian2>
+					<instruksi>この問題では、絵を見ながら質問を聞いてください。矢印（→）の人は何と言いますか。1から3の中から、最もよいものを一つ選んでください。</instruksi>
+
+					<soal id="1" cd="16">
+						<pilihan>1</pilihan>
+						<pilihan>2</pilihan>
+						<pilihan>3</pilihan>
+					</soal>
+				</bagian2>
+			</mondai4>
+		</matome>
+	</bab6_content>
+
+	<!-- KONTEN BAB 7 - Pages 57-61 -->
+	<bab7_content>
+		<!-- PAGE 57 - Header & Dekiru Koto -->
+		<header halaman="57">
+			<kategori>友達同士の会話</kategori>
+			<kategori_en>A Conversation with a Friend</kategori_en>
+			<kategori_id>Percakapan dengan Teman</kategori_id>
+			<nomor>7</nomor>
+			<judul>水泳大会（１）</judul>
+			<judul_en>A swimming competition (1)</judul_en>
+			<judul_id>Kompetisi Renang (1)</judul_id>
+
+			<dekiru_koto>
+				<judul>できること</judul>
+				<judul_id>Yang Bisa Dilakukan</judul_id>
+				<item>
+					<jp>個人的なことについて、確認しながら、友だちとおしゃべりができる。</jp>
+					<en>Talk with a friend about a private matter while confirming information.</en>
+					<id>Dapat bercakap dengan teman tentang hal pribadi sambil mengonfirmasi informasi.</id>
+				</item>
+			</dekiru_koto>
+
+			<content type="speech" cd="17">
+				<karakter nama="鈴木">
+					<jp>あー、疲れた。</jp>
+					<id>Ah, lelah.</id>
+				</karakter>
+				<karakter nama="佐藤">
+					<jp>どうして？</jp>
+					<id>Kenapa?</id>
+				</karakter>
+				<karakter nama="鈴木">
+					<jp>来週の日曜に水泳の大会があるから、毎日練習してるんだ。</jp>
+					<id>Karena minggu depan hari Minggu ada kompetisi renang, aku berlatih setiap hari.</id>
+				</karakter>
+				<karakter nama="佐藤">
+					<jp>え？ 応援に行かなきゃ。何時に始まるの？</jp>
+					<id>Hah? Aku harus pergi mendukung. Jam berapa dimulainya?</id>
+				</karakter>
+				<karakter nama="鈴木">
+					<jp>9時からだけど、バイトだろ？ 来なくてもいいよ。</jp>
+					<id>Dari jam 9, tapi kan kamu ada kerja paruh waktu? Tidak perlu datang juga boleh.</id>
+				</karakter>
+				<karakter nama="佐藤">
+					<jp>自由形に出るんだっけ。</jp>
+					<id>Kamu ikut gaya bebas kan?</id>
+				</karakter>
+				<karakter nama="鈴木">
+					<jp>うん。100メートルと200メートル。</jp>
+					<id>Iya. 100 meter dan 200 meter.</id>
+				</karakter>
+				<karakter nama="佐藤">
+					<jp>がんばってね。もしかして優勝したりして？</jp>
+					<id>Semangat ya. Mungkin kamu malah juara?</id>
+				</karakter>
+				<karakter nama="鈴木">
+					<jp>ははは…。</jp>
+					<id>Hahaha…</id>
+				</karakter>
+			</content>
+		</header>
+
+		<!-- SUB BAB 31: 毎日練習してるんだ - Page 57-58 -->
+		<sub_bab id="31" halaman="57-58">
+			<nomor>31</nomor>
+			<judul>毎日練習してるんだ</judul>
+			<judul_id>Aku Berlatih Setiap Hari</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～ている」「～ておく」などは、「～てる」「～とく」のように短く話すために音を省略したり、形を変えて使うことがよくある。</jp>
+					<en>"～te iru" and "～te oku" are often changed to simplify their pronunciation by shortening them to "～teru" and "～toku".</en>
+					<id>"~te iru" dan "~te oku" sering disingkat menjadi "~teru" dan "~toku" untuk mempermudah pengucapan.</id>
+				</penjelasan>
+				<pola>PI + 縮約形</pola>
+				<pola_id>PI + Bentuk Kontraksi</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>見ている → 見てる (ている→てる)</jp>
+						<id>mite iru → miteru (te iru → teru)</id>
+					</item>
+					<item no="2">
+						<jp>読んでいる → 読んでる (でいる→でる)</jp>
+						<id>yonde iru → yonderu (de iru → deru)</id>
+					</item>
+					<item no="3">
+						<jp>見ておく → 見とく (ておく→とく)</jp>
+						<id>mite oku → mitoku (te oku → toku)</id>
+					</item>
+					<item no="4">
+						<jp>読んでおく → 読んどく (でおく→どく)</jp>
+						<id>yonde oku → yondoku (de oku → doku)</id>
+					</item>
+					<item no="5">
+						<jp>忘れてしまう → 忘れちゃう (てしまう→ちゃう)</jp>
+						<id>wasurete shimau → wasurechau (te shimau → chau)</id>
+					</item>
+					<item no="6">
+						<jp>読んでしまう → 読んじゃう (でしまう→じゃう)</jp>
+						<id>yonde shimau → yonjau (de shimau → jau)</id>
+					</item>
+					<item no="7">
+						<jp>見てはいけない → 見ちゃいけない (ては→ちゃ)</jp>
+						<id>mite wa ikenai → micha ikenai (te wa → cha)</id>
+					</item>
+					<item no="8">
+						<jp>読んではいけない → 読んじゃいけない (では→じゃ)</jp>
+						<id>yonde wa ikenai → yonja ikenai (de wa → ja)</id>
+					</item>
+					<item no="9">
+						<jp>読まなければいけない → 読まなきゃいけない (なければ→なきゃ)</jp>
+						<id>yomanakereba ikenai → yomanakya ikenai (nakereba → nakya)</id>
+					</item>
+					<item no="10">
+						<jp>読まなくてはいけない → 読まなくちゃいけない (なくては→なくちゃ)</jp>
+						<id>yomanakute wa ikenai → yomanakucha ikenai (nakute wa → nakucha)</id>
+					</item>
+				</contoh>
+
+				<catatan>※1 「見てて」「読んでた」のようにIIグループの動詞と同じように使われる。</catatan>
+				<catatan_id>※1 Digunakan seperti kata kerja Grup 2, seperti dalam "mitete" dan "yondeta".</catatan_id>
+				<catatan2>※2 「見といて」「読んどいた」のようにIグループの動詞と同じように使われる。</catatan2>
+				<catatan2_id>※2 Digunakan seperti kata kerja Grup 1, seperti dalam "mitoite" dan "yondoida".</catatan2_id>
+				<catatan3>※3 「読んじゃって」「忘れちゃった」のようにIグループの動詞と同じように使われる。</catatan3>
+				<catatan3_id>※3 Digunakan seperti kata kerja Grup 1, seperti dalam "yonjatte" dan "wasurechatta".</catatan3_id>
+
+				<contoh>
+					<item no="11">
+						<jp>A：あ、あそこにきれいな花が咲いてるよ。 B：ほんとだ。</jp>
+						<id>A: Ah, di sana ada bunga yang indah sedang mekar. B: Benar juga.</id>
+					</item>
+					<item no="12">
+						<jp>A：これ、どこに置きますか。 B：じゃ、あそこの机の上に置いといてください。</jp>
+						<id>A: Ini, di mana saya taruh? B: Ya, tolong taruh di atas meja sana.</id>
+					</item>
+					<item no="13">
+						<jp>A：昼ご飯、食べた？ B：うん、11時に食べちゃった。</jp>
+						<id>A: Sudah makan siang? B: Iya, aku sudah makan jam 11.</id>
+					</item>
+					<item no="14">
+						<jp>A：宿題、終わった？ ちゃんとしなきゃだめよ。 B：はーい。</jp>
+						<id>A: PR sudah selesai? Harus dikerjakan dengan benar ya. B: Ba—iklah.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 4</jawaban_ref>
+
+				<soal id="1">
+					<teks>この本、読んどいてください。</teks>
+					<jawaban>読んでおいてください</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>発表の前にいろいろ調べとかなきゃいけないよ。</teks>
+					<jawaban>調べておかなければいけないよ</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>試験勉強、まだぜんぜんやってない。</teks>
+					<jawaban>やっていない</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>レポート、絶対出さなきゃだめかな？</teks>
+					<jawaban>出さなければだめかな</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.224 ～ている</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 32: 応援に行かなきゃ。 - Page 58-59 -->
+		<sub_bab id="32" halaman="58-59">
+			<nomor>32</nomor>
+			<judul>応援に行かなきゃ。</judul>
+			<judul_id>Aku Harus Pergi Mendukung.</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>文を最後まで言わなくても意味がわかるときは、「～なきゃ。」などのように文を全部言わないことがある。</jp>
+					<en>When the meaning will be understood without saying the end of the sentence, you can use phrases such as "～nakya." to shorten the sentence.</en>
+					<id>Ketika makna bisa dipahami tanpa mengucapkan akhir kalimat, Anda dapat memendekkan kalimat seperti "~nakya."</id>
+				</penjelasan>
+				<pola>PI + (省略)</pola>
+				<pola_id>PI + (Elipsis)</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>ねえ、ちょっと手伝って（ください）。</jp>
+						<id>Hei, tolong bantu (aku).</id>
+					</item>
+					<item no="2">
+						<jp>A：これ、よくわからないなあ。 B：山田さんに聞いたら（どうですか）？</jp>
+						<id>A: Ini, aku kurang mengerti. B: Bagaimana kalau tanya Yamada-san?</id>
+					</item>
+					<item no="3">
+						<jp>A：明日、来られる？ B：わからない。無理かも（しれない）。</jp>
+						<id>A: Besok, bisa datang? B: Tidak tahu. Mungkin tidak bisa.</id>
+					</item>
+					<item no="4">
+						<jp>あ！大変！宿題しなきゃ（いけない）。</jp>
+						<id>Ah! Celaka! Aku harus mengerjakan PR (tidak boleh tidak).</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 4</jawaban_ref>
+
+				<soal id="1">
+					<teks>帰国前にお土産買っておかなきゃ（　　　　　　）。</teks>
+					<jawaban>いけない</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>具合が悪かったら、早く帰って寝たら（　　　　　　）？</teks>
+					<jawaban>どう</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>部屋を出るときは、電気を消して（　　　　　　）。</teks>
+					<jawaban>ください</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<plus>
+				<judul>U</judul>
+				<judul_id>U</judul_id>
+				<penjelasan>
+					<jp>長音（伸ばす音）を伸ばさないことがある。</jp>
+					<en>Prolonged / long sounds are sometimes shortened.</en>
+					<id>Bunyi panjang kadang tidak ditekan.</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>A：おはよ（う）。この本、ありがと（う）。すごくおもしろかった。 B：ね、おもしろかったでしょ（う）。</jp>
+						<id>A: Pagi (u). Terima kasih (u) untuk buku ini. Sangat menarik. B: Kan, menarik kan (u).</id>
+					</item>
+					<item no="2">
+						<jp>そんなことしてないで、早く行こ（う）。</jp>
+						<id>Jangan melakukan hal seperti itu, ayo cepat pergi (u).</id>
+					</item>
+					<item no="3">
+						<jp>A：じゃ、水曜日に会お（う）。 B：うん。さよ（う）なら。</jp>
+						<id>A: Ya, bertemu hari Rabu (u). B: Iya. Sampai jumpa (u).</id>
+					</item>
+				</contoh_plus>
+			</plus>
+
+			<halaman_ref>p.224 ～なきゃ</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 33: 出るんだっけ - Page 59-60 -->
+		<sub_bab id="33" halaman="59-60">
+			<nomor>33</nomor>
+			<judul>出るんだっけ</judul>
+			<judul_id>Kamu Ikut Kan?</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～っけ」は、はっきりわからないことや、聞いたのに忘れてしまったことを確認するときに使う。</jp>
+					<en>Use "~kke" when you confirm something that you do not fully know about or something that you heard but forgot about.</en>
+					<id>Gunakan "~kke" ketika mengonfirmasi sesuatu yang tidak diketahui dengan jelas atau sesuatu yang pernah didengar tetapi terlupa.</id>
+				</penjelasan>
+				<pola>PI/Po + っけ</pola>
+				<pola_id>PI/Po + kke</pola_id>
+				<catatan>※「んだ」と一緒に使われることも多い。</catatan>
+				<catatan_id>※ Sering digunakan bersama dengan "nda".</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>クリーニング屋、何時までだっけ。</jp>
+						<id>Jam berapa laundry tutup ya?</id>
+					</item>
+					<item no="2">
+						<jp>そのケーキ、どうしたの？ 今日、だれかの誕生日だっけ。</jp>
+						<id>Kue itu, kenapa? Hari ini ulang tahun seseorang kan?</id>
+					</item>
+					<item no="3">
+						<jp>A：おかえりなさい。あれ、買ってきてくれた？ B：え？何か頼まれてたっけ。</jp>
+						<id>A: Selamat datang. Ah, kamu membelikannya? B: Hah? Apa aku diminta sesuatu ya?</id>
+					</item>
+					<item no="4">
+						<jp>A：あの店、ディナーだと高いんだっけ。 B：クーポン券があるから、大丈夫だよ。</jp>
+						<id>A: Restoran itu, kalau dinner mahal kan? B: Ada kupon, jadi tidak apa-apa.</id>
+					</item>
+					<item no="5">
+						<jp>A：あれ？これいつ買ったんだっけ。 B：先週、私が買ってきたのよ。</jp>
+						<id>A: Hah? Kapan aku membeli ini ya? B: Minggu lalu, aku yang membelinya.</id>
+					</item>
+					<item no="6">
+						<jp>高橋さん、昨日のパーティーにいらっしゃいましたっけ。</jp>
+						<id>Takahashi-san, apakah hadir di pesta kemarin ya?</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<plus>
+				<judul>U</judul>
+				<judul_id>U</judul_id>
+				<penjelasan>
+					<jp>過去に知ったことは、現在、未来のことでも過去形を使うことがある。</jp>
+					<en>Use the past form for something you found out about in the past, even if it will happen in the present or in the future.</en>
+					<id>Gunakan bentuk lampau untuk sesuatu yang diketahui di masa lalu, meskipun akan terjadi di masa kini atau masa depan.</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>今度のテスト、来週の月曜日だったっけ。</jp>
+						<id>Ujian kali ini, hari Senin minggu depan ya?</id>
+					</item>
+					<item no="2">
+						<jp>電池、どこに入れてありましたっけ。</jp>
+						<id>Baterai, di mana saya taruh ya?</id>
+					</item>
+				</contoh_plus>
+			</plus>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 4</jawaban_ref>
+
+				<soal id="1">
+					<teks>A：おなかすいた。何かお菓子、買ってあった（っけ・よ）。</teks>
+					<jawaban>っけ</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>B：冷蔵庫にアイスクリームがある（っけ・よ）。</teks>
+					<jawaban>よ</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>A：何だ（っけ・よ）、先生がいいって言ってた本の名前。</teks>
+					<jawaban>っけ</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>A：ぼく、昨日、ジョニーの新しい映画見たんだ（っけ・よ）。</teks>
+					<jawaban>よ</jawaban>
+				</soal>
+				<soal id="5">
+					<teks>B：え？もう始まってるんだ（っけ・よ）。</teks>
+					<jawaban>っけ</jawaban>
+				</soal>
+				<soal id="6">
+					<teks>A：石油の値段がまた上がるらしいね。 B：え？そんなこと言ってた（っけ・よ）。</teks>
+					<jawaban>っけ</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.224 ～っけ</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 34: 優勝したりして？ - Page 60-61 -->
+		<sub_bab id="34" halaman="60-61">
+			<nomor>34</nomor>
+			<judul>優勝したりして？</judul>
+			<judul_id>Mungkin Juara?</judul_id>
+			<bintang>★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～たりして」は、「～かもしれない」という意味を表す。</jp>
+					<en>"～tari shite" means "perhaps" or "maybe."</en>
+					<id>"~tari shite" bermakna "mungkin" atau "barangkali".</id>
+				</penjelasan>
+				<pola>PI + りして</pola>
+				<pola_id>PI + ri shite</pola_id>
+				<catatan>[過去形だけ Past form only]</catatan>
+				<catatan_id>[Hanya bentuk lampau]</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>A：佐藤さん、まだ来ないね。 B：もしかして寝てたりして…。</jp>
+						<id>A: Sato-san, belum datang ya. B: Mungkin dia masih tidur...</id>
+					</item>
+					<item no="2">
+						<jp>A：これいくらかな？ B：すごく高かったりして…。</jp>
+						<id>A: Ini berapa harganya? B: Mungkin sangat mahal...</id>
+					</item>
+					<item no="3">
+						<jp>A：ねえ、あのサングラスの人、かっこいいよね。 B：芸能人だったりして…。</jp>
+						<id>A: Hei, orang berkacamata hitam itu, keren ya. B: Mungkin dia artis...</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<halaman_ref>p.105 弱気になったりして</halaman_ref>
+		</sub_bab>
+
+		<!-- CHECK - Page 61 -->
+		<check halaman="61">
+			<judul>Check</judul>
+			<judul_id>Cek</judul_id>
+			<jawaban_ref>別冊P. 4</jawaban_ref>
+
+			<bagian1>
+				<instruksi>適当な形に変えて、（　　）に入れなさい。</instruksi>
+				<instruksi_id>Ubah ke bentuk yang tepat dan isi (　　).</instruksi_id>
+
+				<soal id="1">
+					<teks>A：あれ？ 天気予報、今日雨降るって言ってた（っけ・って）？ B：ううん。晴れって言ってたのに…。</teks>
+					<jawaban>っけ</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>A：さくらちゃん、遅いね。大丈夫かな？ B：そうね。道に迷って（たりして・たっけ）。</teks>
+					<jawaban>たりして</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>A：大変だ！キャッシュカード落としちゃった。 B：じゃ、すぐに銀行に連絡（しちゃ・しなきゃ）。</teks>
+					<jawaban>しなきゃ</jawaban>
+				</soal>
+			</bagian1>
+		</check>
+	</bab7_content>
+
+    <!-- KONTEN BAB 8 - Pages 62-71 -->
+    <bab8_content>
+        <!-- PAGE 62 - Header & Dekiru Koto -->
+        <header halaman="62">
+            <kategori>友達同士の会話</kategori>
+            <kategori_en>A Conversation with a Friend</kategori_en>
+            <kategori_id>Percakapan dengan Teman</kategori_id>
+            <nomor>8</nomor>
+            <judul>水泳大会（２）</judul>
+            <judul_en>A swimming competition (2)</judul_en>
+            <judul_id>Pertandingan Renang (2)</judul_id>
+
+            <dekiru_koto>
+                <judul>できること</judul>
+                <judul_id>Yang Bisa Dilakukan</judul_id>
+                <item>
+                    <jp>個人的なことについて、意見や感想を交えて、友だちとおしゃべりができる。</jp>
+                    <en>Talk with a friend about a private matter as you exchange opinions and impressions.</en>
+                    <id>Dapat mengobrol dengan teman tentang hal pribadi sambil bertukar pendapat dan kesan.</id>
+                </item>
+            </dekiru_koto>
+
+            <content type="speech" cd="18">
+                <karakter nama="鈴木">
+                    <jp>がんばったって、優勝は絶対無理に決まってるよ。</jp>
+                    <id>Meski berusaha keras, juara itu pasti mustahil.</id>
+                </karakter>
+                <karakter nama="佐藤">
+                    <jp>試合なんだから、強気で行かなきゃだめじゃない。</jp>
+                    <id>Karena ini pertandingan, harus pergi dengan semangat.</id>
+                </karakter>
+                <karakter nama="鈴木">
+                    <jp>そんなこと言ったって、強い選手って、小さいときからずっと泳いでいるんだよ。</jp>
+                    <id>Meski kamu bilang begitu, para pemain kuat itu sudah berenang terus-menerus sejak kecil.</id>
+                </karakter>
+                <karakter nama="佐藤">
+                    <jp>ふうん。そうなんだ。なかなか大変みたいだね。</jp>
+                    <id>Hmm. Begitu ya. Kelihatan cukup sulit.</id>
+                </karakter>
+                <karakter nama="鈴木">
+                    <jp>ぼくも子どものころからやっておけばよかったなあって、ときどき思うけどね…いつも遊んでばかりだったから。</jp>
+                    <id>Aku kadang-kadang berpikir, seandainya saja aku berlatih sejak kecil... karena aku selalu bermain-main saja.</id>
+                </karakter>
+                <karakter nama="佐藤">
+                    <jp>きびしいんだね。</jp>
+                    <id>Sulit ya.</id>
+                </karakter>
+                <karakter nama="鈴木">
+                    <jp>でも、おもしろいよ。少しでも速く、上手に泳ごうと思ってがんばるのは、試合があるからだし…。</jp>
+                    <id>Tapi, seru lho. Berusaha untuk berenang sedikit lebih cepat dan lebih baik, karena ada pertandingan...</id>
+                </karakter>
+            </content>
+        </header>
+
+        <!-- SUB BAB 35: がんばったって - Page 63 -->
+        <sub_bab id="35" halaman="63">
+            <nomor>35</nomor>
+            <judul>がんばったって</judul>
+            <judul_id>Meski Berusaha Keras</judul_id>
+            <bintang>★★</bintang>
+
+            <dou_tsukau>
+                <judul>どう使う？</judul>
+                <judul_id>Bagaimana Menggunakannya?</judul_id>
+                <penjelasan>
+                    <jp>「〜たって」は、「急いだって間に合わない」「先生だってわからないことはある」のように、「〜ても」と同じ意味で使う。</jp>
+                    <en>When you use "~tatte", it means the same as "~temo", as in "isoide tatte ma ni awanai" and "sensei datte wakaranai koto wa aru".</en>
+                    <id>"~tatte" digunakan dengan arti yang sama dengan "~temo", seperti dalam "meski terburu-terburu tidak akan tepat waktu" dan "meski guru ada hal yang tidak dipahami".</id>
+                </penjelasan>
+                <pola>V-た / いA くた / なA だ / N だ + って</pola>
+                <pola_id>V-ta / iA ku-ta / naA da / N da + tte</pola_id>
+                <pola2>V-ない くた / いA くなくた / なA じゃなくた / N じゃなくた + って</pola2>
+                <pola2_id>V-nai ku-ta / iA ku-naku-ta / naA ja-naku-ta / N ja-naku-ta + tte</pola2_id>
+
+                <contoh>
+                    <item no="1">
+                        <jp>お金持ちだって、幸せじゃない人もいます。</jp>
+                        <id>Meski kaya, ada orang yang tidak bahagia.</id>
+                    </item>
+                    <item no="2">
+                        <jp>病院に行ったって、すぐには治らないよ。</jp>
+                        <id>Meski pergi ke rumah sakit, tidak akan sembuh segera.</id>
+                    </item>
+                    <item no="3">
+                        <jp>悲しくたって、さびしくたって、絶対泣かない。</jp>
+                        <id>Meski sedih, meski kesepian, aku pasti tidak menangis.</id>
+                    </item>
+                    <item no="4">
+                        <jp>まだ若いので、一晩ぐらい寝なくたって大丈夫です。</jp>
+                        <id>Karena masih muda, meski tidak tidur semalaman tidak apa-apa.</id>
+                    </item>
+                </contoh>
+            </dou_tsukau>
+
+            <yatte_miyou>
+                <judul>やってみよう！</judul>
+                <judul_id>Ayo Coba!</judul_id>
+                <jawaban_ref>別冊P. 4</jawaban_ref>
+
+                <soal id="1">
+                    <teks>どんなに（便利だって・不便だって）高ければ売れないだろう。</teks>
+                    <jawaban>便利だって</jawaban>
+                    <id>Meski seberapa praktis, jika mahal tidak akan laku.</id>
+                </soal>
+                <soal id="2">
+                    <teks>肉が（あったって・なくたって）、えびを使えばおいしいギョーザが作れます。</teks>
+                    <jawaban>なくたって</jawaban>
+                    <id>Meski tidak ada daging, jika menggunakan udang bisa membuat gyoza enak.</id>
+                </soal>
+                <soal id="3">
+                    <teks>顔が（よくたって・悪くたって）性格が悪ければだめだよ。</teks>
+                    <jawaban>よくたって</jawaban>
+                    <id>Meski wajah bagus, jika kepribadian buruk tidak boleh.</id>
+                </soal>
+                <soal id="4">
+                    <teks>けんかを（したって・しなくたって）、すぐに謝れば仲直りできるよ。</teks>
+                    <jawaban>したって</jawaban>
+                    <id>Meski berkelahi, jika segera minta maaf bisa berbaikan.</id>
+                </soal>
+            </yatte_miyou>
+        </sub_bab>
+
+        <!-- SUB BAB 36: 無理に決まってるよ - Page 63 -->
+        <sub_bab id="36" halaman="63">
+            <nomor>36</nomor>
+            <judul>無理に決まってるよ</judul>
+            <judul_id>Pasti Mustahil</judul_id>
+            <bintang>★★</bintang>
+
+            <dou_tsukau>
+                <judul>どう使う？</judul>
+                <judul_id>Bagaimana Menggunakannya?</judul_id>
+                <penjelasan>
+                    <jp>「〜に決まっている」は、「絶対〜だと思う」と強く言うときに使う。</jp>
+                    <en>Use "~ni kimatte iru" when you want to stress that you are absolutely sure of something.</en>
+                    <id>Gunakan "~ni kimatte iru" ketika ingin menegaskan bahwa Anda sangat yakin tentang sesuatu.</id>
+                </penjelasan>
+                <pola>PI + に決まっている</pola>
+                <pola_id>PI + ni kimatte iru</pola_id>
+                <catatan>[なAだ Nだ]</catatan>
+                <catatan_id>[naA da N da]</catatan_id>
+
+                <contoh>
+                    <item no="1">
+                        <jp>A：あ、かわいい犬。チョコレートあげてもいいかな。</jp>
+                        <jp>B：え？犬にチョコ？だめに決まってるじゃない！</jp>
+                        <id>A: Ah, anjing lucu. Bolehkah aku memberikan cokelat? B: Hah? Cokelat untuk anjing? Tentu saja tidak boleh!</id>
+                    </item>
+                    <item no="2">
+                        <jp>あのチームは今年も最下位に決まってるよ。</jp>
+                        <id>Tim itu pasti akan menjadi juara bawah tahun ini.</id>
+                    </item>
+                    <item no="3">
+                        <jp>A：おばあちゃん、プレゼント、喜んでくれるかなあ？</jp>
+                        <jp>B：Aちゃんが選んだんだから、喜ぶに決まってるよ。</jp>
+                        <id>A: Nenek, apakah dia akan senang dengan hadiahnya? B: Karena A-chan yang memilihnya, pasti dia akan senang.</id>
+                    </item>
+                </contoh>
+            </dou_tsukau>
+
+            <yatte_miyou>
+                <judul>やってみよう！</judul>
+                <judul_id>Ayo Coba!</judul_id>
+                <jawaban_ref>別冊P. 4</jawaban_ref>
+
+                <soal id="1">
+                    <teks>A：暑い暑い！</teks>
+                    <teks>B：夏は暑い（に決まっている・ことがある）でしょう。</teks>
+                    <jawaban>に決まっている</jawaban>
+                    <id>A: Panas, panas! B: Musim panas itu pasti panas kan.</id>
+                </soal>
+                <soal id="2">
+                    <teks>A：土曜日はうちにいない（に決まっています・ことがあります）。</teks>
+                    <teks>B：じゃ、行く前に電話します。</teks>
+                    <jawaban>に決まっています</jawaban>
+                    <id>A: Hari Sabtu pasti tidak di rumah. B: Kalau begitu, akan menelepon sebelum pergi.</id>
+                </soal>
+                <soal id="3">
+                    <teks>A：ねえ。このホテル、すてきね。ここに泊まろうよ。</teks>
+                    <teks>B：だめだめ。そんな有名なホテル、高い（に決まっている・ことがある）よ。</teks>
+                    <jawaban>に決まっている</jawaban>
+                    <id>A: Hei, hotel ini bagus ya. Mari menginap di sini. B: Tidak, tidak. Hotel terkenal seperti itu pasti mahal.</id>
+                </soal>
+            </yatte_miyou>
+        </sub_bab>
+
+        <!-- SUB BAB 37: 行かなきゃだめじゃない - Page 64 -->
+        <sub_bab id="37" halaman="64">
+            <nomor>37</nomor>
+            <judul>行かなきゃだめじゃない</judul>
+            <judul_id>Harus Pergi Kan?</judul_id>
+            <bintang>★★★</bintang>
+
+            <dou_tsukau>
+                <judul>どう使う？</judul>
+                <judul_id>Bagaimana Menggunakannya?</judul_id>
+                <penjelasan>
+                    <jp>「〜じゃない」は、聞き手も知っていると思うことや同じ意見だと思うことを確認するときに使う。非難や発見の意味を表すこともある。否定の意味はない。言うときに語尾を上げない。</jp>
+                    <en>Use "~ja nai" when you want to confirm that the listener also knows the same thing or has the same opinion as you. This word is also used to reproach or to talk about a discovery. This does not contain negative meaning. When spoken, the intonation does not rise at the end.</en>
+                    <id>Gunakan "~ja nai" ketika ingin memastikan bahwa pendengar juga mengetahui hal yang sama atau memiliki pendapat yang sama dengan Anda. Kata ini juga digunakan untuk menegur atau membicarakan suatu penemuan. Tidak mengandung makna negatif. Saat diucapkan, intonasi tidak naik di akhir.</id>
+                </penjelasan>
+                <pola>PI + じゃない</pola>
+                <pola_id>PI + ja nai</pola_id>
+                <catatan>[なAだ Nだ]</catatan>
+                <catatan_id>[naA da N da]</catatan_id>
+                <catatan2>※「じゃない」は、下降イントネーションになる。</catatan2>
+                <catatan2_id>※ "ja nai" memiliki intonasi turun.</catatan2_id>
+
+                <contoh>
+                    <item no="1">
+                        <jp>A：今度のクラス会、どこでする？</jp>
+                        <jp>B：レストランABK、広くて、交通の便もいいじゃない。あそこがいいよ。</jp>
+                        <id>A: Pertemuan kelas kali ini, di mana? B: Restoran ABK, luas, dan akses transportasi juga bagus kan. Tempat itu bagus.</id>
+                    </item>
+                    <item no="2">
+                        <jp>A：駅前に新しいコンビニができたじゃないですか。今、おにぎりが全部50円引きなんですよ。</jp>
+                        <jp>B：へえ、そうですか。</jp>
+                        <id>A: Ada convenience store baru di depan stasiun kan. Sekarang, semua onigiri diskon 50 yen. B: Oh, begitu.</id>
+                    </item>
+                    <item no="3">
+                        <jp>A：あ！いけない！電話するの忘れてた。</jp>
+                        <jp>B：だめじゃない。ちゃんと連絡しなきゃ。</jp>
+                        <id>A: Ah! Tidak boleh! Aku lupa menelepon. B: Tidak boleh kan. Harus menghubungi dengan benar.</id>
+                    </item>
+                    <item no="4">
+                        <jp>A：Bさん、すごい！歌下手だって言ってたけど、上手じゃない。</jp>
+                        <jp>B：この歌だけね。一生けんめい練習したの。</jp>
+                        <id>A: B-san, hebat! Kamu bilang tidak pandai menyanyi, tapi kan pandai. B: Hanya lagu ini saja. Aku berlatih dengan sekuat tenaga.</id>
+                    </item>
+                </contoh>
+            </dou_tsukau>
+
+            <yatte_miyou>
+                <judul>やってみよう！</judul>
+                <judul_id>Ayo Coba!</judul_id>
+                <jawaban_ref>別冊P. 4</jawaban_ref>
+
+                <soal id="1">
+                    <teks>A：ラーメン食べに行こ！</teks>
+                    <teks>B：えー、ラーメン！？昨日食べたじゃない。</teks>
+                    <pilihan id="a">昨日、ラーメンを食べた。</pilihan>
+                    <id_a>Kemarin, makan ramen.</id_a>
+                    <pilihan id="b">昨日、ラーメンを食べなかった。</pilihan>
+                    <id_b>Kemarin, tidak makan ramen.</id_b>
+                    <jawaban>a</jawaban>
+                </soal>
+                <soal id="2">
+                    <teks>A：このケーキ、食べてみて。</teks>
+                    <teks>B：おいしいじゃない。佐藤さんが作ったの？すごいね。</teks>
+                    <pilihan id="a">佐藤さんが作ったケーキはおいしい。</pilihan>
+                    <id_a>Kue yang dibuat Sato-san enak.</id_a>
+                    <pilihan id="b">佐藤さんが作ったケーキはおいしくない。</pilihan>
+                    <id_b>Kue yang dibuat Sato-san tidak enak.</id_b>
+                    <jawaban>a</jawaban>
+                </soal>
+                <soal id="3">
+                    <teks>A：約束の時間に来られなかったら電話してって言ったじゃない。</teks>
+                    <teks>B：今度は連絡するよ。</teks>
+                    <pilihan id="a">Aさんは電話してほしいと言わなかったから、Bさんはしなかった。</pilihan>
+                    <id_a>A tidak meminta menelepon, jadi B tidak melakukannya.</id_a>
+                    <pilihan id="b">Aさんは電話してほしいと言ったがBさんはしなかった。</pilihan>
+                    <id_b>A meminta menelepon tetapi B tidak melakukannya.</id_b>
+                    <pilihan id="c">Bさんは時間に遅れたから、連絡できなかった。</pilihan>
+                    <id_c>B terlambat dari waktu, jadi tidak bisa menghubungi.</id_c>
+                    <jawaban>b</jawaban>
+                </soal>
+            </yatte_miyou>
+
+            <plus>
+                <judul>Plus 〜じゃん</judul>
+                <penjelasan>
+                    <jp>「〜じゃん」の形も同じように使われる。</jp>
+                    <en>The form "~jan" is also used in the same way.</en>
+                    <id>Bentuk "~jan" juga digunakan dengan cara yang sama.</id>
+                </penjelasan>
+                <pola>PI + じゃん</pola>
+                <pola_id>PI + jan</pola_id>
+                <contoh_plus>
+                    <item no="1">
+                        <jp>A：だめじゃん。友だちの宿題写しちゃ。自分でやらなきゃ意味ないじゃん！</jp>
+                        <jp>B：そんなに怒らなくてもいいじゃん。</jp>
+                        <id>A: Tidak boleh kan. Menyalin PR teman. Kalau tidak mengerjakan sendiri tidak ada artinya kan! B: Tidak perlu marah seperti itu kan.</id>
+                    </item>
+                </contoh_plus>
+            </plus>
+        </sub_bab>
+
+        <!-- SUB BAB 38: 強い選手って - Page 65 -->
+        <sub_bab id="38" halaman="65">
+            <nomor>38</nomor>
+            <judul>強い選手って</judul>
+            <judul_id>Pemain Kuat Itu</judul_id>
+            <bintang>★</bintang>
+
+            <dou_tsukau>
+                <judul>どう使う？</judul>
+                <judul_id>Bagaimana Menggunakannya?</judul_id>
+                <penjelasan>
+                    <jp>「〜って」は、「クロってかわいいね」のように、「〜は」のかわりに使う。</jp>
+                    <en>Use "~tte" in place of "~wa", as in "Kuro tte kawaii ne".</en>
+                    <id>Gunakan "~tte" sebagai pengganti "~wa", seperti dalam "Kuro tte kawaii ne" (Kuro itu lucu ya).</id>
+                </penjelasan>
+                <pola>N + って</pola>
+                <pola_id>N + tte</pola_id>
+
+                <contoh>
+                    <item no="1">
+                        <jp>山田さんって親切よね。</jp>
+                        <id>Yamada-san itu baik hati ya.</id>
+                    </item>
+                    <item no="2">
+                        <jp>これってただでもらってもいいの？</jp>
+                        <id>Ini, boleh aku ambil gratis?</id>
+                    </item>
+                    <item no="3">
+                        <jp>ディズニーランドってどこにあるか知ってる？</jp>
+                        <id>Disneyland itu kamu tahu di mana?</id>
+                    </item>
+                    <item no="4">
+                        <jp>リンさんっていつ帰国するんだっけ。</jp>
+                        <id>Lin-san itu kapan pulang ke negaranya ya.</id>
+                    </item>
+                </contoh>
+            </dou_tsukau>
+
+            <halaman_ref>p.224 〜って</halaman_ref>
+        </sub_bab>
+
+        <!-- SUB BAB 39: 大変みたいだね - Page 66 -->
+        <sub_bab id="39" halaman="66">
+            <nomor>39</nomor>
+            <judul>大変みたいだね</judul>
+            <judul_id>Kelihatan Sulit Ya</judul_id>
+            <bintang>★★★</bintang>
+
+            <dou_tsukau>
+                <judul>どう使う？</judul>
+                <judul_id>Bagaimana Menggunakannya?</judul_id>
+                <penjelasan>
+                    <jp>「〜みたい」は、話し手の推量を表す「〜よう」の意味で使う。</jp>
+                    <en>Use "~mitai" to state the speaker's speculation, as in "~you".</en>
+                    <id>Gunakan "~mitai" untuk menyatakan dugaan pembicara, seperti "~you".</id>
+                </penjelasan>
+                <pola>PI + みたい（だ）</pola>
+                <pola_id>PI + mitai (da)</pola_id>
+                <catatan>[なAだ Nだ]</catatan>
+                <catatan_id>[naA da N da]</catatan_id>
+
+                <contoh>
+                    <item no="1">
+                        <jp>A：なんか疲れてるみたいだけど、仕事忙しいの？</jp>
+                        <jp>B：そうじゃなくて、勤務地が変わって通勤が大変なんだ。</jp>
+                        <id>A: Kamu kelihatan lelah, apakah pekerjaanmu sibuk? B: Bukan itu, tempat kerjaku berubah jadi perjalanan ke kantor itu sulit.</id>
+                    </item>
+                    <item no="2">
+                        <jp>A：新しくできた美術館、人気あるみたいだね。もう行った？</jp>
+                        <jp>B：うん、すてきな絵がたくさんあったよ。</jp>
+                        <id>A: Museum seni yang baru dibuka, kelihatan populer ya. Sudah pergi? B: Iya, ada banyak lukisan yang indah.</id>
+                    </item>
+                    <item no="3">
+                        <jp>となりのお嬢さん、今日成人式みたい。きれいな着物着て出ていったから。</jp>
+                        <id>Putri tetangga, kelihatan hari ini upacara dewasa. Karena dia pergi mengenakan kimono yang indah.</id>
+                    </item>
+                    <item no="4">
+                        <jp>ようやく梅雨明けしたみたいだね。これから暑くなるね。</jp>
+                        <id>Sepertinya akhirnya musim hujan sudah berakhir. Mulai sekarang akan panas ya.</id>
+                    </item>
+                    <item no="5">
+                        <jp>私、どこかで財布落としちゃったみたい。いくら探してもないのよ。</jp>
+                        <id>Aku sepertinya kehilangan dompet di suatu tempat. Tidak ketemu meski dicari-cari.</id>
+                    </item>
+                </contoh>
+            </dou_tsukau>
+
+            <yatte_miyou>
+                <judul>やってみよう！</judul>
+                <judul_id>Ayo Coba!</judul_id>
+                <jawaban_ref>別冊P. 4</jawaban_ref>
+
+                <soal_matching>
+                    <item id="1">
+                        <teks>経済学理論の授業、単位取るの難しい・みたいだね。</teks>
+                        <match>d</match>
+                        <teks_match>先輩が落としちゃったって言ってたよ。</teks_match>
+                        <id>Kelas teori ekonomi, kelihatan sulit untuk ambil SKS. Senior bilang dia gagal.</id>
+                    </item>
+                    <item id="2">
+                        <teks>どうも食中毒みたいなんだ。</teks>
+                        <match>c</match>
+                        <teks_match>昨日からおなかこわしちゃって…。</teks_match>
+                        <id>Sepertinya keracunan makanan. Perut sakit sejak kemarin.</id>
+                    </item>
+                    <item id="3">
+                        <teks>課長、海外支社に転勤になるみたいよ。</teks>
+                        <match>b</match>
+                        <teks_match>後任はだれになるのかな。</teks_match>
+                        <id>Kepala seksi, kelihatan akan pindah tugas ke cabang luar negeri. Siapa ya penggantinya.</id>
+                    </item>
+                    <item id="4">
+                        <teks>となりの空き地に高層マンションが建・つみたいよ。</teks>
+                        <match>a</match>
+                        <teks_match>日当たりが悪くなって困るよね。</teks_match>
+                        <id>Sepertinya apartemen tinggi akan dibangun di tanah kosong sebelah. Sinar matahari akan jadi buruk dan itu merepotkan.</id>
+                    </item>
+                </soal_matching>
+            </yatte_miyou>
+        </sub_bab>
+
+        <!-- SUB BAB 40: やっておけばよかった - Page 67 -->
+        <sub_bab id="40" halaman="67">
+            <nomor>40</nomor>
+            <judul>やっておけばよかった</judul>
+            <judul_id>Seandainya Saja Sudah Melakukan</judul_id>
+            <bintang>★★★</bintang>
+
+            <dou_tsukau>
+                <judul>どう使う？</judul>
+                <judul_id>Bagaimana Menggunakannya?</judul_id>
+                <penjelasan>
+                    <jp>「〜ばよかった」は、自分が〜しなかったから悪い結果になったことを後悔したり、ほかの人がしなかったことを残念に思ったときに使う。</jp>
+                    <en>Use "~ba yokatta" when you regret a bad result due to you not taking an action, or when another person's inaction is unfortunate.</en>
+                    <id>Gunakan "~ba yokatta" ketika menyesal karena hasil buruk akibat tidak melakukan sesuatu, atau ketika merasa sayang bahwa orang lain tidak melakukan sesuatu.</id>
+                </penjelasan>
+                <pola>V-ば / いA ければ / なA なら / N なら + よかった</pola>
+                <pola_id>V-ba / iA kereba / naA nara / N nara + yokatta</pola_id>
+                <pola2>V-ない ければ / いA くなければ / なA じゃなければ / N じゃなければ + よかった</pola2>
+                <pola2_id>V-nai kereba / iA ku nakereba / naA ja nakereba / N ja nakereba + yokatta</pola2_id>
+
+                <contoh>
+                    <item no="1">
+                        <jp>A：わあ、富士山がとってもきれい！</jp>
+                        <jp>B：ほんと！カメラを持ってくればよかったね。</jp>
+                        <id>A: Wah, Gunung Fuji sangat indah! B: Benar! Seandainya saja aku membawa kamera.</id>
+                    </item>
+                    <item no="2">
+                        <jp>急いでいたからタクシーに乗ったんだけど、乗らなければよかったよ。電車より時間がかかっちゃった。</jp>
+                        <id>Karena terburu-buru aku naik taksi, tapi seandainya saja tidak naik. Lebih lama daripada kereta.</id>
+                    </item>
+                    <item no="3">
+                        <jp>このかばん、機内持ち込みだめだって。もうちょっと小さければよかったんだけど…。</jp>
+                        <id>Tas ini, katanya tidak boleh dibawa ke dalam pesawat. Seandainya saja sedikit lebih kecil...</id>
+                    </item>
+                    <item no="4">
+                        <jp>A：Bちゃんのお母さん、すてきだよね。私は子どものころ、Bちゃんのお母さんが私のお母さんならよかったのにって、思っていたの。</jp>
+                        <jp>B：へえ。Aちゃん、そんなこと思っていたの。ぜんぜん知らなかった。</jp>
+                        <id>A: Ibu B-chan, bagus ya. Waktu aku kecil, aku berpikir seandainya saja ibu B-chan adalah ibuku. B: Hah? A-chan, kamu berpikir begitu? Sama sekali tidak tahu.</id>
+                    </item>
+                </contoh>
+            </dou_tsukau>
+
+            <yatte_miyou>
+                <judul>やってみよう！</judul>
+                <judul_id>Ayo Coba!</judul_id>
+                <jawaban_ref>別冊P. 4</jawaban_ref>
+
+                <soal id="1">
+                    <teks>A：のどかわいたね。</teks>
+                    <teks>B：さっき自動販売機で、水買えばよかったね。</teks>
+                    <pilihan id="a">さっき水を買ったので、水が飲めて、よかった。</pilihan>
+                    <id_a>Tadi membeli air, jadi bisa minum, bagus.</id_a>
+                    <pilihan id="b">さっき水を買わなかったので、のどがかわいて困っている。</pilihan>
+                    <id_b>Tadi tidak membeli air, jadi kehausan dan kesulitan.</id_b>
+                    <jawaban>b</jawaban>
+                </soal>
+                <soal id="2">
+                    <teks>A：留学生の交流パーティー、どうだった？</teks>
+                    <teks>B：とても楽しかったです。先輩も来ればよかったのに…。</teks>
+                    <pilihan id="a">先輩が楽しいパーティーに来なかったので残念だと思っている。</pilihan>
+                    <id_a>Senior tidak datang ke pesta yang menyenangkan, jadi merasa disayangkan.</id_a>
+                    <pilihan id="b">先輩もパーティーに来て、楽しくてよかったと思っている。</pilihan>
+                    <id_b>Senior juga datang ke pesta, senang dan merasa bagus.</id_b>
+                    <jawaban>a</jawaban>
+                </soal>
+                <soal id="3">
+                    <teks>あんまりおいしくないね。やっぱりレシピどおりに作ればよかった。</teks>
+                    <pilihan id="a">レシピどおりに作ったのに、おいしくなかった。</pilihan>
+                    <id_a>Membuat sesuai resep, tetapi tidak enak.</id_a>
+                    <pilihan id="b">レシピどおりに作らなかったので、おいしくなかった。</pilihan>
+                    <id_b>Tidak membuat sesuai resep, jadi tidak enak.</id_b>
+                    <jawaban>b</jawaban>
+                </soal>
+            </yatte_miyou>
+        </sub_bab>
+
+        <!-- SUB BAB 41: 遊んでばかりだった - Page 68 -->
+        <sub_bab id="41" halaman="68">
+            <nomor>41</nomor>
+            <judul>遊んでばかりだった</judul>
+            <judul_id>Selalu Bermain Saja</judul_id>
+            <bintang>★★★</bintang>
+
+            <dou_tsukau>
+                <judul>どう使う？</judul>
+                <judul_id>Bagaimana Menggunakannya?</judul_id>
+                <penjelasan>
+                    <jp>「〜ばかり」は、〜が多くて困る、〜以外のことをしないから困ると批判的に言うときに使う。</jp>
+                    <en>Use "~bakari" to express criticism of only doing "~" or of doing it too much because it causes a problem.</en>
+                    <id>Gunakan "~bakari" untuk mengkritik hanya melakukan "~" atau melakukannya terlalu banyak karena menyebabkan masalah.</id>
+                </penjelasan>
+                <pola>N / V-て + ばかり</pola>
+                <pola_id>N / V-te + bakari</pola_id>
+                <catatan>※「V-て + ばかりいる」の形も使われる。</catatan>
+                <catatan_id>※ Bentuk "V-te + bakari iru" juga digunakan.</catatan_id>
+
+                <contoh>
+                    <item no="1">
+                        <jp>最近雨ばかりで、洗濯物が乾かなくて困っています。</jp>
+                        <id>Akhir-akhir ini hanya hujan terus, pakaian tidak kering dan itu merepotkan.</id>
+                    </item>
+                    <item no="2">
+                        <jp>ゲームばかりしていると、目が悪くなりますよ。</jp>
+                        <id>Jika hanya bermain game terus-menerus, mata akan rusak.</id>
+                    </item>
+                    <item no="3">
+                        <jp>逃げてばかりじゃ勝てないぞ。攻めていけ！</jp>
+                        <id>Tidak akan menang jika hanya lari terus. Serang!</id>
+                    </item>
+                    <item no="4">
+                        <jp>あの子はいたずら好きで、みんなを困らせてばかりいる。</jp>
+                        <id>Anak itu suka usil, selalu merepotkan semua orang.</id>
+                    </item>
+                </contoh>
+            </dou_tsukau>
+
+            <yatte_miyou>
+                <judul>やってみよう！</judul>
+                <judul_id>Ayo Coba!</judul_id>
+                <jawaban_ref>別冊P. 4</jawaban_ref>
+
+                <soal_matching>
+                    <item id="1">
+                        <teks>学生はおしゃべりばかりしていて、</teks>
+                        <match>c</match>
+                        <teks_match>ぜんぜん先生の話を聞いていない。</teks_match>
+                        <id>Murid hanya mengobrol terus, sama sekali tidak mendengarkan guru.</id>
+                    </item>
+                    <item id="2">
+                        <teks>迷子の女の子は何を聞いても泣いてば・かりいるので、</teks>
+                        <match>a</match>
+                        <teks_match>お巡りさんは困ってしまった。</teks_match>
+                        <id>Anak yang tersesat menangis terus apapun yang ditanyakan, jadi polisi menjadi bingung.</id>
+                    </item>
+                    <item id="3">
+                        <teks>子どものころは妹とけんかしてばかり・いましたが、</teks>
+                        <match>d</match>
+                        <teks_match>今は仲よく一緒に旅行しています。</teks_match>
+                        <id>Waktu kecil selalu berkelahi dengan adik perempuan, tetapi sekarang akrab bepergian bersama.</id>
+                    </item>
+                    <item id="4">
+                        <teks>セーターを編み始めたけど、間違えて・ばかりいて、</teks>
+                        <match>b</match>
+                        <teks_match>ぜんぜん進まない。</teks_match>
+                        <id>Mulai merajut sweater, tetapi salah terus, jadi sama sekali tidak maju.</id>
+                    </item>
+                </soal_matching>
+            </yatte_miyou>
+
+            <plus>
+                <judul>U</judul>
+                <penjelasan>
+                    <jp>「V-る / V-ている + ばかり」の形も使われる。</jp>
+                    <en>The form "V-ru / V-te iru + bakari" is also used.</en>
+                    <id>Bentuk "V-ru / V-te iru + bakari" juga digunakan.</id>
+                </penjelasan>
+                <contoh_plus>
+                    <item no="1">
+                        <jp>彼は文句を言うばかりで、ぜんぜん働かない。</jp>
+                        <id>Dia hanya mengeluh terus, sama sekali tidak bekerja.</id>
+                    </item>
+                    <item no="2">
+                        <jp>コアラを見に行ったのに、寝ているばかりでぜんぜん動かないのでがっかりした。</jp>
+                        <id>Pergi melihat koala, tetapi hanya tidur terus dan tidak bergerak sama sekali, jadi kecewa.</id>
+                    </item>
+                </contoh_plus>
+            </plus>
+
+            <halaman_ref>p.221 〜ばかり</halaman_ref>
+        </sub_bab>
+
+        <!-- CHECK - Page 69 -->
+        <check halaman="69">
+            <judul>Check</judul>
+            <judul_id>Cek</judul_id>
+            <jawaban_ref>別冊P. 5</jawaban_ref>
+
+            <bagian1>
+                <instruksi>適当な形に変えて、（　　）に入れなさい。</instruksi>
+                <instruksi_id>Ubah ke bentuk yang tepat dan isi (　　).</instruksi_id>
+
+                <soal id="1">
+                    <teks>A：ロレックスの時計が15,000円だって。</teks>
+                    <teks>B：そんなの偽物（　　　　　　）よ。</teks>
+                    <jawaban>に決まってる</jawaban>
+                    <id>A: Jam Rolex 15.000 yen katanya. B: Yang seperti itu pasti palsu.</id>
+                </soal>
+                <soal id="2">
+                    <teks>A：ねえ、車買おうよー！</teks>
+                    <teks>B：車、（　　　　　　）忙しくて乗る時間ないよ。</teks>
+                    <jawaban>買ったって</jawaban>
+                    <id>A: Hei, mari beli mobil! B: Meski beli mobil, sibuk jadi tidak ada waktu mengendarainya.</id>
+                </soal>
+                <soal id="3">
+                    <teks>A：このカレー、辛すぎて食べられないよ。</teks>
+                    <teks>B：甘口を（　　　　　　）よかったね。</teks>
+                    <jawaban>頼めば</jawaban>
+                    <id>A: Kari ini terlalu pedas, tidak bisa dimakan. B: Seandainya saja memesan yang tidak pedas.</id>
+                </soal>
+                <soal id="4">
+                    <teks>A：新しい会社どう？</teks>
+                    <teks>B：まだ仕事がよくわからなくて、失敗（　　　　　　）ばかりです。</teks>
+                    <jawaban>して</jawaban>
+                    <id>A: Bagaimana perusahaan baru? B: Masih belum mengerti pekerjaan, hanya gagal terus.</id>
+                </soal>
+                <soal id="5">
+                    <teks>A：調子悪いの？</teks>
+                    <teks>B：うん、ちょっと熱がある（　　　　　　）。</teks>
+                    <jawaban>みたい</jawaban>
+                    <id>A: Kondisimu buruk? B: Iya, sepertinya sedikit demam.</id>
+                </soal>
+                <soal id="6">
+                    <teks>A：おなかすいたね。</teks>
+                    <teks>B：え？もう？さっきサンドイッチ食べた（　　　　　　）。</teks>
+                    <jawaban>じゃない</jawaban>
+                    <id>A: Lapar ya. B: Hah? Sudah? Kan tadi sudah makan sandwich.</id>
+                </soal>
+
+                <pilihan_jawaban>
+                    <item>に決まってる</item>
+                    <item>買ったって</item>
+                    <item>頼めば</item>
+                    <item>して</item>
+                    <item>みたい</item>
+                    <item>じゃない</item>
+                </pilihan_jawaban>
+            </bagian1>
+        </check>
+
+        <!-- REVIEW QUESTIONS - Pages 70-71 -->
+        <matome halaman="70-71">
+            <judul>まとめの問題</judul>
+            <judul_id>Soal-soal Ringkasan</judul_id>
+            <jawaban_ref>別冊P. 14</jawaban_ref>
+
+            <mondai1 type="文法形式の判断">
+                <judul>問題1 〈文法形式の判断〉</judul>
+                <judul_id>Soal 1: Penilaian Bentuk Tata Bahasa</judul_id>
+                <instruksi>次の文の（　　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。</instruksi>
+                <instruksi_id>Pilih yang paling tepat untuk mengisi (　　) dalam kalimat berikut dari pilihan 1・2・3・4.</instruksi_id>
+
+                <soal id="1">
+                    <teks>A：だめよ。新聞を火のそばに置いたら火事になっちゃう（　　）。</teks>
+                    <teks>B：ごめん、ごめん。すぐ片付けるから。</teks>
+                    <pilihan id="1">か</pilihan>
+                    <pilihan id="2">なら</pilihan>
+                    <pilihan id="3">っけ</pilihan>
+                    <pilihan id="4">じゃない</pilihan>
+                    <jawaban>4</jawaban>
+                    <id>A: Tidak boleh. Kalau menaruh koran di dekat api, bisa kebakaran kan. B: Maaf, maaf. Aku segera bereskan.</id>
+                </soal>
+                <soal id="2">
+                    <teks>昨日からのどが痛くて、なんだか風邪をひいた（　　）なんだ。</teks>
+                    <pilihan id="1">ばかり</pilihan>
+                    <pilihan id="2">みたい</pilihan>
+                    <pilihan id="3">ところ</pilihan>
+                    <pilihan id="4">はず</pilihan>
+                    <jawaban>2</jawaban>
+                    <id>Sejak kemarin tenggorokan sakit, sepertinya aku tertular flu.</id>
+                </soal>
+                <soal id="3">
+                    <teks>A：奨学金の申し込みっていつまでだった（　　）？</teks>
+                    <teks>B：来週の金曜までだよ。</teks>
+                    <pilihan id="1">んだ</pilihan>
+                    <pilihan id="2">っけ</pilihan>
+                    <pilihan id="3">よ</pilihan>
+                    <pilihan id="4">か</pilihan>
+                    <jawaban>2</jawaban>
+                    <id>A: Pendaftaran beasiswa itu sampai kapan ya? B: Sampai Jumat minggu depan.</id>
+                </soal>
+                <soal id="4">
+                    <teks>A：このケーキ、おいしいね。</teks>
+                    <teks>B：ほんと？うれしい！昨日がんばって作った（　　）。</teks>
+                    <pilihan id="1">んだ</pilihan>
+                    <pilihan id="2">って</pilihan>
+                    <pilihan id="3">っけ</pilihan>
+                    <pilihan id="4">じゃない</pilihan>
+                    <jawaban>1</jawaban>
+                    <id>A: Kue ini enak. B: Benarkah? Senang! Aku berusaha keras membuatnya kemarin.</id>
+                </soal>
+                <soal id="5">
+                    <teks>A：わあ！立派な家！どんな人が住んでるのかな？</teks>
+                    <teks>B：お金持ち（　　）よ。</teks>
+                    <pilihan id="1">ばかり</pilihan>
+                    <pilihan id="2">ならよかった</pilihan>
+                    <pilihan id="3">に決まってる</pilihan>
+                    <pilihan id="4">じゃない</pilihan>
+                    <jawaban>3</jawaban>
+                    <id>A: Wah! Rumah bagus! Orang seperti apa yang tinggal di sana ya? B: Pasti orang kaya.</id>
+                </soal>
+                <soal id="6">
+                    <teks>A：うー、寒い！風邪ひきそう。コートを（　　）。</teks>
+                    <teks>B：だから、「コートは？」って聞いたのに。</teks>
+                    <pilihan id="1">着てくればよかった</pilihan>
+                    <pilihan id="2">着てきてよかった</pilihan>
+                    <pilihan id="3">着てこないでよかった</pilihan>
+                    <pilihan id="4">着てこなければよかった</pilihan>
+                    <jawaban>1</jawaban>
+                    <id>A: Uh, dingin! Sepertiku tertular flu. Seandainya saja aku membawa mantel. B: Makanya, aku sudah tanya "mantelnya?".</id>
+                </soal>
+            </mondai1>
+
+            <mondai2 type="文の組み立て">
+                <judul>問題2 〈文の組み立て〉</judul>
+                <judul_id>Soal 2: Penyusunan Kalimat</judul_id>
+                <instruksi>次の文の★に入る最もよいものを1・2・3・4から一つ選びなさい。</instruksi>
+                <instruksi_id>Pilih yang paling tepat untuk mengisi ★ dalam kalimat berikut dari pilihan 1・2・3・4.</instruksi_id>
+
+                <soal id="1">
+                    <teks>A：明日の集合時間、6時だよ。</teks>
+                    <teks>B：そんな＿＿＿　＿＿＿　★　＿＿＿　ないじゃない。どうしよう。</teks>
+                    <pilihan id="1">電車</pilihan>
+                    <pilihan id="2">早い</pilihan>
+                    <pilihan id="3">動いて</pilihan>
+                    <pilihan id="4">時間じゃ</pilihan>
+                    <jawaban>3</jawaban>
+                    <urutan>2 4 1 3</urutan>
+                    <id>A: Jam berkumpul besok, jam 6. B: Pada waktu sesubuk itu, kereta tidak beroperasi kan. Bagaimana ini.</id>
+                </soal>
+                <soal id="2">
+                    <teks>いくら＿＿＿　＿＿＿　★　＿＿＿　勉強しなきゃ受からないよ。</teks>
+                    <pilihan id="1">ように</pilihan>
+                    <pilihan id="2">お祈り</pilihan>
+                    <pilihan id="3">したって</pilihan>
+                    <pilihan id="4">合格する</pilihan>
+                    <jawaban>3</jawaban>
+                    <urutan>4 1 2 3</urutan>
+                    <id>Bagaimanapun berdoa agar lulus, jika tidak belajar tidak akan lulus.</id>
+                </soal>
+                <soal id="3">
+                    <teks>忙しくても、仕事＿＿＿　＿＿＿　★　＿＿＿　体を壊すよ。</teks>
+                    <pilihan id="1">していないで</pilihan>
+                    <pilihan id="2">休まないと</pilihan>
+                    <pilihan id="3">ばかり</pilihan>
+                    <pilihan id="4">少しは</pilihan>
+                    <jawaban>3</jawaban>
+                    <urutan>3 1 4 2</urutan>
+                    <id>Meski sibuk, jika hanya kerja terus-menerus dan tidak istirahat sedikit, akan merusak kesehatan.</id>
+                </soal>
+            </mondai2>
+
+            <mondai3 type="聴解">
+                <judul>問題3 〈聴解〉</judul>
+                <judul_id>Soal 3: Mendengarkan</judul_id>
+                <instruksi>この問題では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。</instruksi>
+                <instruksi_id>Dalam soal ini, tidak ada yang tercetak di lembar soal. Pertama, dengarkan kalimat. Kemudian dengarkan jawabannya, dan pilih yang paling tepat dari 1 sampai 3.</instruksi_id>
+
+                <soal id="1" cd="19">
+                    <pilihan>1</pilihan>
+                    <pilihan>2</pilihan>
+                    <pilihan>3</pilihan>
+                </soal>
+                <soal id="2" cd="20">
+                    <pilihan>1</pilihan>
+                    <pilihan>2</pilihan>
+                    <pilihan>3</pilihan>
+                </soal>
+                <soal id="3" cd="21">
+                    <pilihan>1</pilihan>
+                    <pilihan>2</pilihan>
+                    <pilihan>3</pilihan>
+                </soal>
+                <soal id="4" cd="22">
+                    <pilihan>1</pilihan>
+                    <pilihan>2</pilihan>
+                    <pilihan>3</pilihan>
+                </soal>
+                <soal id="5" cd="23">
+                    <pilihan>1</pilihan>
+                    <pilihan>2</pilihan>
+                    <pilihan>3</pilihan>
+                </soal>
+            </mondai3>
+        </matome>
+    </bab8_content>
+	
+	<!-- KONTEN BAB 9 - Pages 72-76 -->
+	<bab9_content>
+		<!-- PAGE 72 - Header & Dekiru Koto -->
+		<header halaman="72">
+			<kategori>レシピを読む</kategori>
+			<kategori_en>Reading a Recipe</kategori_en>
+			<kategori_id>Membaca Resep</kategori_id>
+			<nomor>9</nomor>
+			<judul>手作りハムのレシピ（１）</judul>
+			<judul_en>A recipe for homemade ham (1)</judul_en>
+			<judul_id>Resep Ham Buatan Sendiri (1)</judul_id>
+
+			<dekiru_koto>
+				<judul>できること</judul>
+				<judul_id>Yang Bisa Dilakukan</judul_id>
+				<item>
+					<jp>レシピを読んで、どんな料理か理解できる。</jp>
+					<en>Read a recipe and understand what kind of food it is for.</en>
+					<id>Dapat membaca resep dan memahami untuk masakan apa.</id>
+				</item>
+			</dekiru_koto>
+
+			<content type="speech" cd="24">
+				<teks>皆様、本日ご紹介する「とりハム」は、安いとり肉を本当のハムのようにおいしくできます。サラダやサンドイッチはもちろん、ほかの料理にもおすすめです。2日かかりますが、とても簡単に作れるので、ぜひ作ってみてください。
+
+	材料
+	・とりむね肉　1枚　（むね肉はもも肉ほどあぶらが多くないので、あっさりしていて食べやすい）
+	・はちみつ　大さじ1　（はちみつのかわりに砂糖でもよい）
+	・塩　大さじ1
+	・こしょう　少々</teks>
+				<teks_id>Semuanya, "Tori Ham" yang diperkenalkan hari ini bisa dibuat enak seperti ham asli dari daging ayam yang murah. Tidak hanya untuk salad dan sandwich, tetapi juga direkomendasikan untuk masakan lain. Meskipun membutuhkan waktu 2 hari, karena sangat mudah dibuat, silakan coba buat.
+
+	Bahan:
+	- Daging dada ayam 1 potong (daging dada tidak seberlemak daging paha, jadi ringan dan mudah dimakan)
+	- Madu 1 sendok makan (bisa diganti dengan gula sebagai pengganti madu)
+	- Garam 1 sendok makan
+	- Merica sedikit</teks_id>
+			</content>
+		</header>
+
+		<!-- SUB BAB 42: 本当のハムのように - Page 72 -->
+		<sub_bab id="42" halaman="72">
+			<nomor>42</nomor>
+			<judul>本当のハムのように</judul>
+			<judul_id>Seperti Ham Asli</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～よう」は、「氷のように冷たい手」のように、似ているものを言って、様子や状況を説明するときに使う。</jp>
+					<en>Use "～よう" to describe an appearance or situation by saying that it resembles something else, as in "氷のように冷たい手".</en>
+					<id>Gunakan "~you" untuk menggambarkan penampilan atau situasi dengan mengatakan bahwa itu menyerupai sesuatu yang lain, seperti dalam "tangan dingin seperti es".</id>
+				</penjelasan>
+				<pola>Nの／V-る／V-た／V-ている＋ようだ／ように／ような＋N</pola>
+				<pola_id>Kata Benda no / Kata Kerja bentuk dasar / Kata Kerja bentuk ta / Kata Kerja bentuk te iru + you da / you ni / you na + Kata Benda</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>あのえんぴつのような形をしている建物は、電話会社のビルです。</jp>
+						<id>Gedung yang berbentuk seperti pensil itu adalah gedung perusahaan telepon.</id>
+					</item>
+					<item no="2">
+						<jp>わが社の新しいロボットはまるで人間のように手足が自由に動きます。</jp>
+						<id>Robot baru perusahaan kami bergerak dengan bebas seperti manusia.</id>
+					</item>
+					<item no="3">
+						<jp>あの2人が話していると、まるでけんかをしているように聞こえる。</jp>
+						<id>Ketika kedua orang itu berbicara, terdengar seperti sedang bertengkar.</id>
+					</item>
+					<item no="4">
+						<jp>今日は宿題が山のようにたくさんある。</jp>
+						<id>Hari ini PR-nya banyak seperti gunung.</id>
+					</item>
+					<item no="5">
+						<jp>夕方になって半額セールが始まると、お弁当は飛ぶように売れて、あっという間になくなってしまった。</jp>
+						<id>Ketika sore hari dimulai sale setengah harga, bento terjual laris dan habis dalam sekejap.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 5</jawaban_ref>
+
+				<soal id="1">
+					<teks>佐藤さんのお姉さんはファッションモデルの（ように・ような）かっこいい。</teks>
+				</soal>
+				<soal id="2">
+					<teks>あの雲は魚の（ように・ような）形をしている。</teks>
+				</soal>
+				<soal id="3">
+					<teks>あの体操選手の動きは、機械の（ように・ような）正確だ。</teks>
+				</soal>
+				<soal id="4">
+					<teks>今日は真夏の（ように・ような）暑さになりますので、体調管理にお気をつけください。</teks>
+				</soal>
+			</yatte_miyou>
+
+			<plus>
+				<judul>Plus ～みたい</judul>
+				<judul_id>Plus ~Mitai</judul_id>
+				<penjelasan>
+					<jp>友だちとの会話では「～みたい」の形も使う。</jp>
+					<en>In conversation with friends, the form "～mitai" is also used.</en>
+					<id>Dalam percakapan dengan teman, bentuk "~mitai" juga digunakan.</id>
+				</penjelasan>
+				<pola>N／V-る／V-た／V-ている＋みたい（だ）／みたいに／みたいな＋N</pola>
+				<pola_id>Kata Benda / Kata Kerja bentuk dasar / Kata Kerja bentuk ta / Kata Kerja bentuk te iru + mitai (da) / mitai ni / mitai na + Kata Benda</pola_id>
+
+				<contoh_plus>
+					<item no="1">
+						<jp>A：山田先生って厳しいけど私たちのことほんとに心配してくれるよね。</jp>
+						<jp>B：そうそう、ちょっとお父さんみたい。</jp>
+						<id>A: Guru Yamada itu galak tetapi benar-benar mengkhawatirkan kita ya. B: Iya iya, sedikit seperti ayah.</id>
+					</item>
+					<item no="2">
+						<jp>A：生まれたばかりの赤ちゃんって、猿みたいだよね。</jp>
+						<jp>B：そんなことないよ。うちの子はかわいかったよ。</jp>
+						<id>A: Bayi yang baru lahir, seperti monyet ya. B: Tidak seperti itu. Anakku dulu lucu.</id>
+					</item>
+					<item no="3">
+						<jp>わあ、すごい汗だね。シャワーを浴びたみたい。</jp>
+						<id>Wah, keringatnya banyak ya. Seperti habis mandi shower.</id>
+					</item>
+				</contoh_plus>
+			</plus>
+		</sub_bab>
+
+		<!-- SUB BAB 43: サンドイッチはもちろん、ほかの料理にも - Page 73 -->
+		<sub_bab id="43" halaman="73">
+			<nomor>43</nomor>
+			<judul>サンドイッチはもちろん、ほかの料理にも</judul>
+			<judul_id>Tidak Hanya Sandwich, Tetapi Juga Masakan Lain</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「AはもちろんBも」の形で、「Aだけでなく、さらにBも」と言いたいときに使う。</jp>
+					<en>Use the "AはもちろんBも" pattern when you want to say "not only A, but also B."</en>
+					<id>Gunakan pola "A wa mochiron B mo" ketika ingin mengatakan "tidak hanya A, tetapi juga B".</id>
+				</penjelasan>
+				<pola>N1＋はもちろん　N2＋も</pola>
+				<pola_id>Kata Benda 1 + wa mochiron + Kata Benda 2 + mo</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>山形はスキーはもちろん、温泉もいいのでたいへん人気があります。</jp>
+						<id>Yamagata, tidak hanya ski, tetapi juga pemandian air panas bagus, jadi sangat populer.</id>
+					</item>
+					<item no="2">
+						<jp>この店、ラーメンはもちろん、ギョーザもおいしいと評判ですよ。</jp>
+						<id>Di toko ini, tidak hanya ramen, tetapi gyoza juga enak dan terkenal.</id>
+					</item>
+					<item no="3">
+						<jp>このタイプの旅行保険は、事故はもちろん、病気や盗難も補償いたします。</jp>
+						<id>Asuransi perjalanan tipe ini, tidak hanya kecelakaan, tetapi juga sakit dan pencurian diganti.</id>
+					</item>
+					<item no="4">
+						<jp>父はゴルフが趣味で、週末はもちろん平日も仕事のあとで練習しています。</jp>
+						<id>Ayah hobi golf, tidak hanya akhir pekan, tetapi juga hari biasa berlatih setelah kerja.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 5</jawaban_ref>
+
+				<soal_matching>
+					<item id="1">
+						<teks>私が通っている日本語学校は</teks>
+						<match>c</match>
+						<teks_match>日本語の授業はもちろん数学や英語の授業もあります。</teks_match>
+						<id>Sekolah bahasa Jepang yang saya datangi, tidak hanya pelajaran bahasa Jepang, tetapi juga ada pelajaran matematika dan bahasa Inggris.</id>
+					</item>
+					<item id="2">
+						<teks>この旅行会社は</teks>
+						<match>d</match>
+						<teks_match>国内はもちろん海外にもたくさんの支店を持っています。</teks_match>
+						<id>Agen perjalanan ini, tidak hanya dalam negeri, tetapi juga memiliki banyak cabang di luar negeri.</id>
+					</item>
+					<item id="3">
+						<teks>昨日大学から合格通知が来たので</teks>
+						<match>b</match>
+						<teks_match>両親にはもちろん先生や友だちにも急いで知らせた。</teks_match>
+						<id>Karena kemarin datang surat penerimaan dari universitas, tidak hanya orang tua, tetapi juga guru dan teman-teman saya beritahu dengan cepat.</id>
+					</item>
+					<item id="4">
+						<teks>私が来日したのは</teks>
+						<match>a</match>
+						<teks_match>日本の伝統芸術はもちろん、アニメやファッションにも興味があるからです。</teks_match>
+						<id>Saya datang ke Jepang karena tertarik tidak hanya pada seni tradisional Jepang, tetapi juga pada anime dan fashion.</id>
+					</item>
+				</soal_matching>
+			</yatte_miyou>
+		</sub_bab>
+
+		<!-- SUB BAB 44: もも肉ほどあぶらが多くない - Page 74 -->
+		<sub_bab id="44" halaman="74">
+			<nomor>44</nomor>
+			<judul>もも肉ほどあぶらが多くない</judul>
+			<judul_id>Tidak Seberlemak Daging Paha</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「AはBほど～ない」の形で、AはBのレベルまでは達していないことを言うときに使う。</jp>
+					<en>Use the "AはBほど～ない" pattern when you say that A is not as "~" as B.</en>
+					<id>Gunakan pola "A wa B hodo ~ nai" ketika ingin mengatakan bahwa A tidak se-"~" seperti B.</id>
+				</penjelasan>
+				<pola>N／V-る／V-た／V-ている／V-ていた＋ほど～ない</pola>
+				<pola_id>Kata Benda / Kata Kerja bentuk dasar / Kata Kerja bentuk ta / Kata Kerja bentuk te iru / Kata Kerja bentuk te ita + hodo ~ nai</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>今年の冬は去年ほど寒くないですね。</jp>
+						<id>Musim dingin tahun ini tidak sedingin tahun lalu ya.</id>
+					</item>
+					<item no="2">
+						<jp>和菓子はケーキほどカロリーが高くないと思って、つい食べすぎてしまう。</jp>
+						<id>Saya pikir wagashi tidak setinggi kue kalorinya, jadi tanpa sadar kebanyakan makan.</id>
+					</item>
+					<item no="3">
+						<jp>世の中はあなたが考えているほど甘くない。</jp>
+						<id>Dunia ini tidak semudah yang Anda pikirkan.</id>
+					</item>
+					<item no="4">
+						<jp>昨日の数学のテストは、思ったほど難しくなかった。</jp>
+						<id>Tes matematika kemarin tidak sesulit yang kupikirkan.</id>
+					</item>
+					<item no="5">
+						<jp>今日見た映画は、友だちが言っていたほどおもしろくなかった。</jp>
+						<id>Film yang saya tonton hari ini tidak semenarik yang dikatakan teman.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 5</jawaban_ref>
+
+				<soal_matching>
+					<item id="1">
+						<teks>私が生まれ育った町は</teks>
+						<match>b</match>
+						<teks_match>東京ほどにぎやかじゃない。</teks_match>
+						<id>Kota tempat saya lahir dan dibesarkan, tidak serumai Tokyo.</id>
+					</item>
+					<item id="2">
+						<teks>ちょっと頭が痛いけど</teks>
+						<match>c</match>
+						<teks_match>学校を休むほどひどくないから大丈夫です。</teks_match>
+						<id>Kepala sedikit sakit, tetapi tidak separah itu sehingga perlu bolos sekolah, jadi tidak apa-apa.</id>
+					</item>
+					<item id="3">
+						<teks>留学生活は</teks>
+						<match>d</match>
+						<teks_match>心配していたほど大変じゃなかった。</teks_match>
+						<id>Kehidupan mahasiswa asing, tidak sesulit yang saya khawatirkan.</id>
+					</item>
+					<item id="4">
+						<teks>ピアノはずっと習っているけど</teks>
+						<match>a</match>
+						<teks_match>人前でひくほど上手じゃないですよ。</teks_match>
+						<id>Saya terus belajar piano, tetapi tidak sebagus itu sehingga bisa memainkannya di depan umum.</id>
+					</item>
+				</soal_matching>
+			</yatte_miyou>
+		</sub_bab>
+
+		<!-- SUB BAB 45: はちみつのかわりに - Page 75 -->
+		<sub_bab id="45" halaman="75">
+			<nomor>45</nomor>
+			<judul>はちみつのかわりに</judul>
+			<judul_id>Sebagai Pengganti Madu</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～かわりに」は、ほかの人がする、ほかのものを使う、ほかのことをするというときに使う。交換条件などを表すときにも使われる。</jp>
+					<en>Use "～かわりに" when another person will do something, another object will be used, or another action will be taken. This expression is also often used to discuss things such as terms for an exchange.</en>
+					<id>Gunakan "~kawari ni" ketika orang lain akan melakukan sesuatu, benda lain akan digunakan, atau tindakan lain akan dilakukan. Ungkapan ini juga sering digunakan untuk membahas syarat pertukaran.</id>
+				</penjelasan>
+				<pola>Nの／V-る／V-た／V-ない＋かわりに</pola>
+				<pola_id>Kata Benda no / Kata Kerja bentuk dasar / Kata Kerja bentuk ta / Kata Kerja bentuk negatif + kawari ni</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>母の帰りが遅くなる日は、母のかわりに私が夕食を作ることになっている。</jp>
+						<id>Di hari ibu pulang terlambat, saya yang membuat makan malam sebagai pengganti ibu.</id>
+					</item>
+					<item no="2">
+						<jp>スミスさんはそばを食べるとき、おはしのかわりにフォークを使うそうだ。</jp>
+						<id>Katanya Smith-san saat makan soba, menggunakan garpu sebagai pengganti sumpit.</id>
+					</item>
+					<item no="3">
+						<jp>私たちは便利な生活を手に入れたかわりに、多くの自然を失った。</jp>
+						<id>Kami memperoleh kehidupan yang nyaman, tetapi sebagai gantinya kehilangan banyak alam.</id>
+					</item>
+					<item no="4">
+						<jp>友だちに韓国語を教えるかわりに、日本料理の作り方を教えてもらっている。</jp>
+						<id>Sebagai gantinya mengajari teman bahasa Korea, saya diajari cara membuat masakan Jepang.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 5</jawaban_ref>
+
+				<soal_matching>
+					<item id="1">
+						<teks>ダイエット中なので</teks>
+						<match>a</match>
+						<teks_match>今度ごちそうしてよね。</teks_match>
+						<id>Karena sedang diet, lain kali traktir saya ya.</id>
+					</item>
+					<item id="2">
+						<teks>海外からお客様がいらっしゃったときはいつも</teks>
+						<match>b</match>
+						<teks_match>朝ご飯のかわりにこれを食べるようにしています。</teks_match>
+						<id>Ketika ada tamu dari luar negeri, selalu menjadikan ini sebagai pengganti sarapan.</id>
+					</item>
+					<item id="3">
+						<teks>引っ越し手伝ってあげるかわりに</teks>
+						<match>c</match>
+						<teks_match>社長のかわりに部長があいさつする。</teks_match>
+						<id>Sebagai gantinya membantu pindahan, kepala bagian menyampaikan sambutan sebagai pengganti presiden direktur.</id>
+					</item>
+					<item id="4">
+						<teks>日曜日に仕事をするかわりに</teks>
+						<match>d</match>
+						<teks_match>来週休みをもらうことになった。</teks_match>
+						<id>Sebagai gantinya bekerja hari Minggu, saya mendapatkan libur minggu depan.</id>
+					</item>
+				</soal_matching>
+			</yatte_miyou>
+
+			<plus>
+				<judul>U</judul>
+				<penjelasan>
+					<jp>「N＋にかわって／にかわり」の形も使われる。</jp>
+					<en>The form "N + ni kawatte / ni kawari" is also used.</en>
+					<id>Bentuk "Kata Benda + ni kawatte / ni kawari" juga digunakan.</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>今後はガソリンで走る車にかわって電気自動車が普及するのだろうか。</jp>
+						<id>Mungkinkah ke depannya mobil listrik akan menyebar luas sebagai pengganti mobil berbahan bakar bensin?</id>
+					</item>
+					<item no="2">
+						<jp>本日は、入院中の父にかわり、私がごあいさつさせていただきます。</jp>
+						<id>Hari ini, sebagai pengganti ayah yang sedang dirawat di rumah sakit, saya akan menyampaikan sambutan.</id>
+					</item>
+				</contoh_plus>
+			</plus>
+		</sub_bab>
+
+		<!-- CHECK - Page 76 -->
+		<check halaman="76">
+			<judul>Check</judul>
+			<judul_id>Cek</judul_id>
+			<jawaban_ref>別冊P. 5</jawaban_ref>
+
+			<bagian1>
+				<instruksi>適当な形に変えて、（　　）に入れなさい。</instruksi>
+				<instruksi_id>Ubah ke bentuk yang tepat dan isi (　　).</instruksi_id>
+
+				<soal id="1">
+					<teks>数学は英語（　　　　　　）得意じゃない。</teks>
+					<jawaban>ほど</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>高橋さん、私の（　　　　　　）大阪へ出張してくれませんか。</teks>
+					<jawaban>かわりに</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>このアニメは、子どもは（　　　　　　）大人も十分楽しめます。</teks>
+					<jawaban>もちろん</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>うちの犬ととなりの家の犬はきょうだいの（　　　　　　）仲がいい。</teks>
+					<jawaban>ように</jawaban>
+				</soal>
+
+				<pilihan_bagian1>
+					<item>ように</item>
+					<item>かわりに</item>
+					<item>ほど</item>
+					<item>もちろん</item>
+				</pilihan_bagian1>
+			</bagian1>
+		</check>
+	</bab9_content>
+
+	<!-- KONTEN BAB 10 - Pages 77-85 -->
+	<bab10_content>
+		<!-- PAGE 77 - Header & Dekiru Koto -->
+		<header halaman="77">
+			<kategori>レシピを読む</kategori>
+			<kategori_en>Reading a Recipe</kategori_en>
+			<kategori_id>Membaca Resep</kategori_id>
+			<nomor>10</nomor>
+			<judul>手作りハムのレシピ（２）</judul>
+			<judul_en>A recipe for homemade ham (2)</judul_en>
+			<judul_id>Resep Ham Buatan Tangan (2)</judul_id>
+
+			<dekiru_koto>
+				<judul>できること</judul>
+				<judul_id>Yang Bisa Dilakukan</judul_id>
+				<item>
+					<jp>レシピを読んで、料理の手順や注意が理解できる。</jp>
+					<en>Read a recipe and understand the steps and advice.</en>
+					<id>Dapat membaca resep dan memahami langkah-langkah serta perhatiannya.</id>
+				</item>
+			</dekiru_koto>
+
+			<content type="recipe" cd="25">
+				<teks>（1日目）
+	1. とりむね肉を切らずにボウルに入れて、初めにはちみつ、または砂糖をかけて、次に塩、こしょうの順にかけてよく混ぜます。
+	2. 1をビニール袋に入れます。そのときできるだけ空気を入れないようにします。
+	3. ビニール袋に入れたまま、冷蔵庫の中に入れて1日置いておきます。
+
+	（2日目）
+	1. とり肉をビニール袋から出してボウルに入れ、水ではちみつ（砂糖）、塩を洗い流します。
+	2. さらに、きれいな水に1時間つけたままにします。
+	3. 鍋にお湯をわかし、ふっとうしたところへとり肉を入れます。
+	4. もう一度ふっとうしたら、すぐに火を止めてふたをします。
+	5. そのまま冷めるまで置いておきましょう。
+	6. 冷めたら取り出して冷蔵庫に入れて2、3日で食べきってください。</teks>
+				<teks_id>(Hari 1)
+	1. Masukkan dada ayam ke dalam mangkuk tanpa memotongnya, pertama beri madu atau gula, lalu beri garam dan merica sesuai urutan, aduk rata.
+	2. Masukkan 1 ke dalam kantong plastik. Usahakan sedikit mungkin udara yang masuk saat itu.
+	3. Biarkan di dalam kulkas selama 1 hari dalam keadaan masih di dalam kantong plastik.
+
+	(Hari 2)
+	1. Keluarkan daging ayam dari kantong plastik dan masukkan ke mangkuk, bilas madu (gula), garam dengan air.
+	2. Selanjutnya, rendam dalam air bersih selama 1 jam dalam keadaan demikian.
+	3. Panaskan air dalam panci, masukkan daging ayam ke dalam air yang sudah mendidih.
+	4. Setelah mendidih sekali lagi, segera matikan api dan tutup panci.
+	5. Biarkan dalam keadaan demikian sampai dingin.
+	6. Setelah dingin, keluarkan dan masukkan ke kulkas, habiskan dalam 2-3 hari.</teks_id>
+			</content>
+		</header>
+
+		<!-- SUB BAB 46: とりむね肉を切らずに - Page 78 -->
+		<sub_bab id="46" halaman="78">
+			<nomor>46</nomor>
+			<judul>とりむね肉を切らずに</judul>
+			<judul_id>Tanpa Memotong Dada Ayam</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～ずに」は、「～ないで」の意味で使われる。</jp>
+					<en>"～ずに" is used with the meaning of "～ないで" (without doing ~).</en>
+					<id>"~zuni" digunakan dengan arti "~naide" (tanpa melakukan ~).</id>
+				</penjelasan>
+				<pola>V-ない + ずに</pola>
+				<pola_id>Kata Kerja bentuk negatif + zuni</pola_id>
+				<catatan>※「する」→「せずに」「来る」→「来ずに」</catatan>
+				<catatan_id>※ "suru" menjadi "sezuni", "kuru" menjadi "kozuni"</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>かさを持たずに出かけて、雨に降られてしまった。</jp>
+						<id>Saya pergi tanpa membawa payung, dan kehujanan.</id>
+					</item>
+					<item no="2">
+						<jp>名前を書かずにテストを出してしまった。</jp>
+						<id>Saya mengumpulkan tes tanpa menulis nama.</id>
+					</item>
+					<item no="3">
+						<jp>涙のわけは聞かずに、そっとしておいてほしいと彼女に言われた。</jp>
+						<id>Saya diberitahu olehnya untuk tidak menanyakan alasannya menangis dan membiarkannya sendiri.</id>
+					</item>
+					<item no="4">
+						<jp>宛先のアドレスをよく確認せずに送信してしまった。</jp>
+						<id>Saya mengirim tanpa memeriksa alamat tujuan dengan baik.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 5</jawaban_ref>
+
+				<soal_matching>
+					<item id="1">
+						<teks>今日は寝坊をしてしまって、</teks>
+						<match>d</match>
+						<teks_match>朝食を食べずに学校に来た。</teks_match>
+						<id>Hari ini saya bangun kesiangan, dan datang ke sekolah tanpa sarapan.</id>
+					</item>
+					<item id="2">
+						<teks>好き嫌いしないで、</teks>
+						<match>c</match>
+						<teks_match>野菜も残さずに食べないとだめですよ。</teks_match>
+						<id>Jangan memilih-milih makanan, harus dimakan tanpa menyisakan sayuran.</id>
+					</item>
+					<item id="3">
+						<teks>注文の電話がかかってきたのに、</teks>
+						<match>b</match>
+						<teks_match>相手の名前を確かめずに切ってしまった。</teks_match>
+						<id>Telepon pesanan masuk, tetapi saya mematikan tanpa memastikan nama lawan bicara.</id>
+					</item>
+					<item id="4">
+						<teks>日本語能力試験まであと1か月、</teks>
+						<match>a</match>
+						<teks_match>最後まであきらめずにがんばろう。</teks_match>
+						<id>Tinggal 1 bulan sampai ujian kemampuan bahasa Jepang, ayo berusaha tanpa menyerah sampai akhir.</id>
+					</item>
+				</soal_matching>
+			</yatte_miyou>
+
+			<halaman_ref>p.221 ～ずに</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 47: ビニール袋に入れたまま - Page 79 -->
+		<sub_bab id="47" halaman="79">
+			<nomor>47</nomor>
+			<judul>ビニール袋に入れたまま</judul>
+			<judul_id>Dalam Keadaan Masuk ke Kantong Plastik</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～たまま」は、状態が変わらないで続いていることを言うときに使う。次に何かをしなければならないのに、していないと言うときにも使う。</jp>
+					<en>Use "～たまま" when you say that a situation is continuing unchanged. You can also use it when you say that an action that follows the current situation is not being done even though it must be.</en>
+					<id>Gunakan "~tamama" ketika mengatakan bahwa suatu situasi terus berlanjut tanpa berubah. Juga bisa digunakan ketika mengatakan bahwa tindakan yang harus dilakukan setelah situasi saat ini tidak dilakukan padahal harus dilakukan.</id>
+				</penjelasan>
+				<pola>V-た / Nの + まま</pola>
+				<pola_id>Kata Kerja bentuk ta / Kata Benda + no + mama</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>すぐに戻ってきますから、机の上はこのままにしておいてください。</jp>
+						<id>Saya akan segera kembali, jadi biarkan meja tetap seperti ini.</id>
+					</item>
+					<item no="2">
+						<jp>久しぶりに帰ったふるさとは以前のままだった。</jp>
+						<id>Kampung halaman yang saya kunjungi setelah lama tidak berkunjung tetap sama seperti dulu.</id>
+					</item>
+					<item no="3">
+						<jp>日本では卵を生のまま食べるというのは本当ですか。</jp>
+						<id>Apakah benar di Jepang telur dimakan dalam keadaan mentah?</id>
+					</item>
+					<item no="4">
+						<jp>冬はくつ下をはいたまま寝ています。</jp>
+						<id>Di musim dingin saya tidur dengan kaus kaki masih terpasang.</id>
+					</item>
+					<item no="5">
+						<jp>友だちから本を借りたままで、まだ返していない。</jp>
+						<id>Saya masih meminjam buku dari teman, belum mengembalikannya.</id>
+					</item>
+					<item no="6">
+						<jp>部屋の電気をつけたまま寝てしまった。</jp>
+						<id>Saya tertidur dengan lampu kamar masih menyala.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 5</jawaban_ref>
+
+				<soal id="1">
+					<teks>ポケットにお金を（入れて・入れたまま）洗濯してしまった。</teks>
+					<jawaban>入れたまま</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>みんなかさを（さして・さしたまま）歩いているから、外は雨が降っているのだろう。</teks>
+					<jawaban>さしたまま</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>この本を（読んで・読んだまま）、レポートを書いてください。</teks>
+					<jawaban>読んだまま</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>昨日買った洋服を値札を（つけて・つけたまま）着て行って、友だちに笑われた。</teks>
+					<jawaban>つけたまま</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<plus>
+				<judul>U</judul>
+				<penjelasan>
+					<jp>形容詞が使われることもある。</jp>
+					<en>Adjectives can also be used.</en>
+					<id>Kata sifat juga bisa digunakan.</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>この本は2冊買って、1冊は新しいままとっておくつもりです。</jp>
+						<id>Saya membeli 2 buku ini, dan berencana menyimpan 1 buku dalam keadaan baru.</id>
+					</item>
+					<item no="2">
+						<jp>この冷蔵庫は魚でも野菜でも新鮮なまま保存できます。</jp>
+						<id>Kulkas ini bisa menyimpan ikan maupun sayur dalam keadaan segar.</id>
+					</item>
+				</contoh_plus>
+			</plus>
+
+			<halaman_ref>p.221 ～まま</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 48: ボウルに入れ、 - Page 79-80 -->
+		<sub_bab id="48" halaman="79-80">
+			<nomor>48</nomor>
+			<judul>ボウルに入れ、</judul>
+			<judul_id>Masukkan ke Mangkuk,</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「調査し、レポートを書く」のように、「～て」のかわりに、ます形を使うことがある。</jp>
+					<en>Use the ます form in place of "～て", as in "調査し、レポートを書く".</en>
+					<id>Gunakan bentuk masu sebagai pengganti "~te", seperti dalam "menyelidiki, menulis laporan".</id>
+				</penjelasan>
+				<pola>V-ます</pola>
+				<pola_id>Kata Kerja bentuk masu</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>アンケートを実施し、結果をまとめて発表する。</jp>
+						<id>Melaksanakan kuesioner, merangkum hasilnya, dan menyampaikannya.</id>
+					</item>
+					<item no="2">
+						<jp>交通ルールを守り、安全運転をしましょう。</jp>
+						<id>Patuhi peraturan lalu lintas, dan mari berkendara dengan aman.</id>
+					</item>
+					<item no="3">
+						<jp>高速道路の料金が値下げされ、利用者が増えた。</jp>
+						<id>Tarif jalan tol diturunkan, dan jumlah penggunanya meningkat.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 5</jawaban_ref>
+
+				<contoh>
+					<teks>子どもは「よく遊び、よく学べ」と昔からよく言われている。</teks>
+				</contoh>
+
+				<soal id="1">
+					<teks>小麦粉に卵と砂糖を＿＿＿、よく混ぜる。</teks>
+					<jawaban>入れ</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>午後から久しぶりに雨が＿＿＿、少し涼しくなった。</teks>
+					<jawaban>降り</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>新郎の中村君は大学では経済を＿＿＿、優秀な成績で卒業されました。</teks>
+					<jawaban>専攻し</jawaban>
+				</soal>
+
+				<pilihan_jawaban>
+					<item>遊ぶ</item>
+					<item>降る</item>
+					<item>入れる</item>
+					<item>専攻する</item>
+				</pilihan_jawaban>
+			</yatte_miyou>
+
+			<halaman_ref>p.221 ～て</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 49: ふっとうしたところへ - Page 80-81 -->
+		<sub_bab id="49" halaman="80-81">
+			<nomor>49</nomor>
+			<judul>ふっとうしたところへ</judul>
+			<judul_id>Ketika Air Sudah Mendidih</judul_id>
+			<bintang>★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～ところへ、…」は、ちょうど「～」の場面、「～」のときに、「…」をする、「…」が起きたと言うときに使う。</jp>
+					<en>Use "～ところへ、…" when you say that someone did "…" or that "…" happened right in a certain setting or at a certain time (as expressed by "～").</en>
+					<id>Gunakan "~tokoro e, ..." ketika mengatakan bahwa seseorang melakukan "..." atau "..." terjadi tepat pada saat/situasi tertentu (seperti yang dinyatakan oleh "~").</id>
+				</penjelasan>
+				<pola>V-る / V-た / V-ている + ところ</pola>
+				<pola_id>Kata Kerja bentuk dasar / ta / te iru + tokoro</pola_id>
+				<catatan>※「ところ」の後ろにつく助詞は、「～ところを見られた」「～ところへ／に来た」「～ところで終わった」など、後ろの動詞によって変わる。</catatan>
+				<catatan_id>※ Partikel setelah "tokoro" berubah tergantung kata kerja yang mengikutinya, seperti "~tokoro wo mirareta", "~tokoro e/ni kita", "~tokoro de owatta".</catatan_id>
+
+				<contoh>
+					<item no="1">
+						<jp>あくびしたところを写真に撮られたって、佐藤さん、怒ってたよ。</jp>
+						<id>Katanya foto saat sedang menguap diambil, Sato-san marah lho.</id>
+					</item>
+					<item no="2">
+						<jp>大統領が記者会見をしているところに、緊急ニュースが飛び込んできた。</jp>
+						<id>Tepat saat Presiden sedang mengadakan konferensi pers, berita darurat datang menerobos.</id>
+					</item>
+					<item no="3">
+						<jp>A：試験、どうだった？ B：うん。最後の問題が解けたところで、試験終了のチャイムが鳴ったんだ。</jp>
+						<id>A: Bagaimana ujiannya? B: Ya. Tepat saat soal terakhir terpecahkan, bel tanda ujian selesai berbunyi.</id>
+					</item>
+					<item no="4">
+						<jp>部長がお客さんと話をしているところに声をかけて、あとで注意されてしまった。</jp>
+						<id>Saya menyapa tepat saat Kepala Bagian sedang berbicara dengan tamu, dan kemudian ditegur.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 5</jawaban_ref>
+
+				<soal_matching>
+					<item id="1">
+						<teks>試合時間が残り1分を切ったところで、</teks>
+						<match>c</match>
+						<teks_match>ゴールを決められて負けてしまった。</teks_match>
+						<id>Tepat saat waktu pertandingan tersisa kurang dari 1 menit, saya kalah karena lawan mencetak gol.</id>
+					</item>
+					<item id="2">
+						<teks>授業中、寝ているところを、</teks>
+						<match>d</match>
+						<teks_match>先生に注意された。</teks_match>
+						<id>Tepat saat sedang tidur di jam pelajaran, saya ditegur oleh guru.</id>
+					</item>
+					<item id="3">
+						<teks>夏休みで家族とのんびりしているところに、</teks>
+						<match>b</match>
+						<teks_match>会社から呼び出しの電話がかかってきた。</teks_match>
+						<id>Tepat saat sedang bersantai dengan keluarga di liburan musim panas, telepon panggilan dari kantor masuk.</id>
+					</item>
+					<item id="4">
+						<teks>お湯がぐつぐつとふっとうしているところに、</teks>
+						<match>a</match>
+						<teks_match>めんを入れてください。</teks_match>
+						<id>Tepat saat air sedang mendidih, masukkan mie.</id>
+					</item>
+				</soal_matching>
+			</yatte_miyou>
+
+			<plus>
+				<judul>U</judul>
+				<penjelasan>
+					<jp>「V-ていた／V-ようとした＋ところ」「いA＋ところ」の形も使われる。</jp>
+					<en>The forms "V-te ita / V-you to shita + tokoro" and "iA + tokoro" are also used.</en>
+					<id>Bentuk "V-te ita / V-you to shita + tokoro" dan "iA + tokoro" juga digunakan.</id>
+				</penjelasan>
+				<contoh_plus>
+					<item no="1">
+						<jp>その亀は子どもたちにいじめられていたところを、太郎に助けられました。</jp>
+						<id>Kura-kura itu diselamatkan oleh Taro tepat saat sedang dijahili oleh anak-anak.</id>
+					</item>
+					<item no="2">
+						<jp>犯人は逃げようとしたところを、警官に撃たれ、重傷を負いました。</jp>
+						<id>Tepat saat pelaku mencoba lari, dia ditembak oleh polisi dan mengalami luka parah.</id>
+					</item>
+					<item no="3">
+						<jp>A：おばさん、こんにちは。 B：あ、ちょうどいいところへ来た。ちょっと手伝って。</jp>
+						<id>A: Tante, selamat siang. B: Ah, kamu datang tepat pada waktunya. Tolong bantu sebentar.</id>
+					</item>
+				</contoh_plus>
+			</plus>
+
+			<halaman_ref>p.222 ～ところ</halaman_ref>
+		</sub_bab>
+
+		<!-- SUB BAB 50: 2、3日で食べきってください - Page 81 -->
+		<sub_bab id="50" halaman="81">
+			<nomor>50</nomor>
+			<judul>2、3日で食べきってください</judul>
+			<judul_id>Habiskan dalam 2-3 Hari</judul_id>
+			<bintang>★★★</bintang>
+
+			<dou_tsukau>
+				<judul>どう使う？</judul>
+				<judul_id>Bagaimana Menggunakannya?</judul_id>
+				<penjelasan>
+					<jp>「～きる」は、全部～する、最後まで～すると言うときに使われる。「～きれない」は多すぎて全部～できない、完全には～できないという意味で使う。「疲れきる」「困りきる」など、決まった言葉と一緒に「とても～だ」という意味で使われることもある。</jp>
+					<en>"～きる" is used to say that something is all done or done to the end. "～きれない" means that the amount of a task is too great to do all of or to complete. In combination with certain words, you can also make standard expressions to say that something is very "～", as in "疲れきる" and "困りきる".</en>
+					<id>"~kiru" digunakan untuk mengatakan bahwa sesuatu dilakukan sepenuhnya atau sampai akhir. "~kirenai" berarti jumlah tugas terlalu besar untuk dilakukan sepenuhnya atau diselesaikan. Dalam kombinasi dengan kata-kata tertentu, juga bisa membuat ungkapan standar untuk mengatakan bahwa sesuatu sangat "~", seperti dalam "tsukarekiru" dan "komarikiru".</id>
+				</penjelasan>
+				<pola>V-ます + きる</pola>
+				<pola_id>Kata Kerja bentuk masu + kiru</pola_id>
+
+				<contoh>
+					<item no="1">
+						<jp>この目薬は2週間で使いきってください。残ったら使わないで捨ててください。</jp>
+						<id>Tetes mata ini, habiskan dalam 2 minggu. Jika ada sisa, buang saja tanpa digunakan.</id>
+					</item>
+					<item no="2">
+						<jp>こんなたくさんの荷物、寮の部屋に入りきらないよ。</jp>
+						<id>Barang bawaan sebanyak ini, tidak muat masuk ke kamar asrama.</id>
+					</item>
+					<item no="3">
+						<jp>父はずっと残業が続いていて、疲れきった顔をしている。</jp>
+						<id>Ayah terus-menerus lembur, dan wajahnya terlihat sangat lelah.</id>
+					</item>
+					<item no="4">
+						<jp>両親に反対されているけれど、歌手になる夢はどうしてもあきらめきれない。</jp>
+						<id>Meski ditentang orang tua, saya sama sekali tidak bisa menyerahkan impian menjadi penyanyi.</id>
+					</item>
+				</contoh>
+			</dou_tsukau>
+
+			<yatte_miyou>
+				<judul>やってみよう！</judul>
+				<judul_id>Ayo Coba!</judul_id>
+				<jawaban_ref>別冊P. 5</jawaban_ref>
+
+				<soal id="1">
+					<teks>地球上には数え（きる・きれる・きれない）ほど多くの生物がいる。</teks>
+					<jawaban>きれない</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>この本を全部読み（きる・きれる・きれない）のに、1か月はかかるだろう。</teks>
+					<jawaban>きる</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>私は1日100の単語なんて、とても覚え（きる・きれる・きれない）。</teks>
+					<jawaban>きれない</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>ピッチャーは最後まで一人で投げ（きる・きれる・きれない）ように体力をつけなければならない。</teks>
+					<jawaban>きる</jawaban>
+				</soal>
+			</yatte_miyou>
+
+			<halaman_ref>p.222 ～きる／きれる／きれない</halaman_ref>
+		</sub_bab>
+
+		<!-- CHECK - Page 82 -->
+		<check halaman="82">
+			<judul>Check</judul>
+			<judul_id>Cek</judul_id>
+			<jawaban_ref>別冊P. 6</jawaban_ref>
+
+			<bagian1>
+				<soal id="1">
+					<teks>不要なメールは（読んだまま・読まずに）削除することが多い。</teks>
+					<jawaban>読まずに</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>A：このビデオは同時に4つの番組が録画できるのよ。 B：そんなにたくさん録画しても（見きれない・見たまま）よ。</teks>
+					<jawaban>見きれない</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>彼はカラオケに行くとマイクを（持ったまま・持たずに）離さないらしい。</teks>
+					<jawaban>持ったまま</jawaban>
+				</soal>
+			</bagian1>
+		</check>
+
+		<!-- REVIEW QUESTIONS - Pages 83-85 -->
+		<matome halaman="83-85">
+			<judul>まとめの問題</judul>
+			<judul_id>Soal-soal Ringkasan</judul_id>
+			<jawaban_ref>別冊P. 15</jawaban_ref>
+
+			<mondai1 type="文法形式の判断">
+				<judul>問題1 〈文法形式の判断〉</judul>
+				<judul_id>Soal 1: Penilaian Bentuk Tata Bahasa</judul_id>
+				<instruksi>次の文の（　　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。</instruksi>
+				<instruksi_id>Pilih yang paling tepat untuk mengisi (　　) dalam kalimat berikut dari pilihan 1・2・3・4.</instruksi_id>
+
+				<soal id="1">
+					<teks>テレビを買おうと思って店に行ったら、（　　）高くなかった。</teks>
+					<pilihan id="1">思っていたほど</pilihan>
+					<pilihan id="2">思うより</pilihan>
+					<pilihan id="3">思うかわりに</pilihan>
+					<pilihan id="4">思わずに</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="2">
+					<teks>夏休みは帰国できないので、その（　　）、両親を東京に呼ぶことにした。</teks>
+					<pilihan id="1">とおりに</pilihan>
+					<pilihan id="2">かわりに</pilihan>
+					<pilihan id="3">ように</pilihan>
+					<pilihan id="4">とたん</pilihan>
+					<jawaban>2</jawaban>
+				</soal>
+				<soal id="3">
+					<teks>兄は両親に（　　）大学を決めてしまった。</teks>
+					<pilihan id="1">相談はもちろん</pilihan>
+					<pilihan id="2">相談するより</pilihan>
+					<pilihan id="3">相談するほど</pilihan>
+					<pilihan id="4">相談せずに</pilihan>
+					<jawaban>4</jawaban>
+				</soal>
+				<soal id="4">
+					<teks>弟は本当に疲れたらしく、服を（　　）ベッドで寝てしまった。</teks>
+					<pilihan id="1">着るかわりに</pilihan>
+					<pilihan id="2">着たまま</pilihan>
+					<pilihan id="3">着るほど</pilihan>
+					<pilihan id="4">着るように</pilihan>
+					<jawaban>2</jawaban>
+				</soal>
+				<soal id="5">
+					<teks>この商品は手作りなので、注文が増えて対応（　　）困りますから、あまり宣伝していません。</teks>
+					<pilihan id="1">しきれないと</pilihan>
+					<pilihan id="2">したとたん</pilihan>
+					<pilihan id="3">したまま</pilihan>
+					<pilihan id="4">しないほど</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="6">
+					<teks>この大学の図書館は本校の学生（　　）、一般の方もご利用になれます。</teks>
+					<pilihan id="1">はもちろん</pilihan>
+					<pilihan id="2">ほど</pilihan>
+					<pilihan id="3">のまま</pilihan>
+					<pilihan id="4">にたいして</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="7">
+					<teks>この絵は世界的に有名な画家が描いたものだが、子どもが描いた絵（　　）見える。</teks>
+					<pilihan id="1">のように</pilihan>
+					<pilihan id="2">のかわりに</pilihan>
+					<pilihan id="3">のままに</pilihan>
+					<pilihan id="4">ほどに</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="8">
+					<teks>私は中学生になっても泣き虫だったので、よく母に「子ども（　　）すぐ泣くのはやめなさい」と言われました。</teks>
+					<pilihan id="1">のかわりに</pilihan>
+					<pilihan id="2">はもちろん</pilihan>
+					<pilihan id="3">みたいに</pilihan>
+					<pilihan id="4">ほど</pilihan>
+					<jawaban>3</jawaban>
+				</soal>
+			</mondai1>
+
+			<mondai2 type="文の組み立て">
+				<judul>問題2 〈文の組み立て〉</judul>
+				<judul_id>Soal 2: Penyusunan Kalimat</judul_id>
+				<instruksi>次の文の★に入る最もよいものを1・2・3・4から一つ選びなさい。</instruksi>
+				<instruksi_id>Pilih yang paling tepat untuk mengisi ★ dalam kalimat berikut dari pilihan 1・2・3・4.</instruksi_id>
+
+				<soal id="1">
+					<teks>明日は、胃の＿＿＿　＿＿＿　★　＿＿＿来てください。</teks>
+					<pilihan id="1">あるので</pilihan>
+					<pilihan id="2">食べずに</pilihan>
+					<pilihan id="3">朝食を</pilihan>
+					<pilihan id="4">検査が</pilihan>
+					<jawaban>2</jawaban>
+					<urutan>4 1 3 2</urutan>
+				</soal>
+				<soal id="2">
+					<teks>Mのコンサートチケットを買おうとしたが、＿＿＿　＿＿＿　★　＿＿＿買えなかった。</teks>
+					<pilihan id="1">売りきれて</pilihan>
+					<pilihan id="2">10分で</pilihan>
+					<pilihan id="3">発売開始から</pilihan>
+					<pilihan id="4">しまって</pilihan>
+					<jawaban>1</jawaban>
+					<urutan>3 2 1 4</urutan>
+				</soal>
+				<soal id="3">
+					<teks>大学に入ってから一人暮らしで、＿＿＿　＿＿＿　★　＿＿＿しなければならないのでけっこう忙しいんです。</teks>
+					<pilihan id="1">そうじや</pilihan>
+					<pilihan id="2">洗濯も</pilihan>
+					<pilihan id="3">もちろん</pilihan>
+					<pilihan id="4">勉強は</pilihan>
+					<jawaban>3</jawaban>
+					<urutan>4 3 2 1</urutan>
+				</soal>
+				<soal id="4">
+					<teks>今日の相手チームは、＿＿＿　＿＿＿　★　＿＿＿ないから、勝てるかもしれない。</teks>
+					<pilihan id="1">ほど</pilihan>
+					<pilihan id="2">チーム</pilihan>
+					<pilihan id="3">強く</pilihan>
+					<pilihan id="4">昨日の</pilihan>
+					<jawaban>3</jawaban>
+					<urutan>4 2 1 3</urutan>
+				</soal>
+			</mondai2>
+
+			<mondai3 type="文章の文法">
+				<judul>問題3 〈文章の文法〉</judul>
+				<judul_id>Soal 3: Tata Bahasa Teks</judul_id>
+				<instruksi>次の文章を読んで、文章全体の内容を考えて、1から4の中に入る最もよいものを、1・2・3・4から一つ選びなさい。</instruksi>
+				<instruksi_id>Baca teks berikut, pertimbangkan isi keseluruhan teks, dan pilih yang paling tepat untuk mengisi 1 sampai 4 dari pilihan 1・2・3・4.</instruksi_id>
+
+				<bacaan>
+					<teks>今日は、火を[1]できるとても簡単なデザートをご紹介します。材料は、ヨーグルト（200グラム）、生クリーム（50グラム）、砂糖（20グラム）だけです。
+	まず、ふきんを敷いたざるにヨーグルトをのせて、その下[2]ボウルを置きます。そのまま冷蔵庫に一晩入れておきましょう。ヨーグルトから水分が出て、豆腐の[3]固さになります。あとは、生クリームと砂糖を混ぜれば完成です。フルーツと一緒に食べるの[4]パンに塗って食べてもおいしいです。</teks>
+					<id>Hari ini, saya akan memperkenalkan dessert yang sangat mudah yang bisa [1] api. Bahan-bahannya hanya yogurt (200 gram), krim segar (50 gram), dan gula (20 gram).
+	Pertama, taruh yogurt di atas saringan yang dilapisi kain lap, dan letakkan mangkuk [2] bawahnya. Biarkan di kulkas semalaman dalam keadaan demikian. Air akan keluar dari yogurt, dan menjadi keras [3] tahu. Setelah itu, campurkan krim segar dan gula, dan selesai. [4] dimakan bersama buah, dioleskan ke roti juga enak.</id>
+				</bacaan>
+
+				<soal id="1">
+					<pilihan id="1">使わない</pilihan>
+					<pilihan id="2">使わずに</pilihan>
+					<pilihan id="3">使うまま</pilihan>
+					<pilihan id="4">使うほど</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="2">
+					<pilihan id="1">に</pilihan>
+					<pilihan id="2">が</pilihan>
+					<pilihan id="3">で</pilihan>
+					<pilihan id="4">を</pilihan>
+					<jawaban>1</jawaban>
+				</soal>
+				<soal id="3">
+					<pilihan id="1">ようだ</pilihan>
+					<pilihan id="2">ように</pilihan>
+					<pilihan id="3">ようで</pilihan>
+					<pilihan id="4">ような</pilihan>
+					<jawaban>4</jawaban>
+				</soal>
+				<soal id="4">
+					<pilihan id="1">について</pilihan>
+					<pilihan id="2">にかわって</pilihan>
+					<pilihan id="3">はもちろん</pilihan>
+					<pilihan id="4">によって</pilihan>
+					<jawaban>3</jawaban>
+				</soal>
+			</mondai3>
+
+			<mondai4 type="聴解">
+				<judul>問題4 〈聴解〉</judul>
+				<judul_id>Soal 4: Mendengarkan</judul_id>
+
+				<bagian1>
+					<instruksi>この問題では、まず質問を聞いてください。そのあと、問題用紙を見てください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つえらんでください。</instruksi>
+					<instruksi_id>Dalam soal ini, pertama dengarkan pertanyaan. Kemudian lihat lembar soal. Ada waktu untuk membaca. Setelah itu dengarkan pembicaraan, dan pilih yang paling tepat dari 1 sampai 4 di lembar soal.</instruksi_id>
+
+					<soal id="1" cd="26">
+						<pilihan id="1">女子学生に宿題を見せてもらうから</pilihan>
+						<pilihan id="2">男子学生が宿題を見せてあげるから</pilihan>
+						<pilihan id="3">女子学生はいつも成績が悪いから</pilihan>
+						<pilihan id="4">男子学生は成績がよかったから</pilihan>
+					</soal>
+				</bagian1>
+
+				<bagian2>
+					<instruksi>この問題では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、その返事を聞いて、1から3の中から、最もよいものを一つえらんでください。</instruksi>
+					<instruksi_id>Dalam soal ini, tidak ada yang tercetak di lembar soal. Pertama, dengarkan kalimat. Kemudian dengarkan jawabannya, dan pilih yang paling tepat dari 1 sampai 3.</instruksi_id>
+
+					<soal id="1" cd="27">
+						<pilihan>1</pilihan>
+						<pilihan>2</pilihan>
+						<pilihan>3</pilihan>
+					</soal>
+					<soal id="2" cd="28">
+						<pilihan>1</pilihan>
+						<pilihan>2</pilihan>
+						<pilihan>3</pilihan>
+					</soal>
+					<soal id="3" cd="29">
+						<pilihan>1</pilihan>
+						<pilihan>2</pilihan>
+						<pilihan>3</pilihan>
+					</soal>
+					<soal id="4" cd="30">
+						<pilihan>1</pilihan>
+						<pilihan>2</pilihan>
+						<pilihan>3</pilihan>
+					</soal>
+				</bagian2>
+			</mondai4>
+		</matome>
+	</bab10_content>
+
+	
+
+	<!-- KONTEN BAB 11 - Pages 86-92 -->
 	
 	
 	<!-- N2「できること」リスト - Pages 227-231 -->
