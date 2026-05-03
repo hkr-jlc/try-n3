@@ -12502,6 +12502,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Talk about things you tried as well as your thoughts and feelings about trips and other new experiences.</en>
 					<id>Dapat menceritakan hal-hal yang dicoba serta pemikiran dan perasaan tentang perjalanan dan pengalaman baru lainnya.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="2">
+			<nomor>2</nomor>
+			<kategori>旅行の経験を話す</kategori>
+			<kategori_en>Talk about Trip Experiences</kategori_en>
+			<kategori_id>Bercerita tentang Pengalaman Perjalanan</kategori_id>
+			<judul>初めての富士登山</judul>
+			<judul_en>First climb up Mt. Fuji</judul_en>
+			<judul_id>Mendaki Gunung Fuji untuk Pertama Kalinya</judul_id>
+			<dekiru>
 				<item>
 					<jp>旅行などの初めての経験について、体験したことや考えたこと、感じたことが表現できる。</jp>
 					<en>Talk about things you tried as well as your thoughts and feelings about trips and other new experiences.</en>
@@ -12510,8 +12522,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="2">
-			<nomor>2</nomor>
+		<bab_group id="3">
+			<nomor>3</nomor>
 			<kategori>ペットや家族を紹介する</kategori>
 			<kategori_en>Introduce Pets and Family</kategori_en>
 			<kategori_id>Memperkenalkan Hewan Peliharaan dan Keluarga</kategori_id>
@@ -12524,6 +12536,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Present basic information about your pets and family, and explain your relationships with them.</en>
 					<id>Dapat menyajikan informasi dasar tentang hewan peliharaan dan keluarga, serta menjelaskan hubungan dengan mereka.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="4">
+			<nomor>4</nomor>
+			<kategori>ペットや家族を紹介する</kategori>
+			<kategori_en>Introduce Pets and Family</kategori_en>
+			<kategori_id>Memperkenalkan Hewan Peliharaan dan Keluarga</kategori_id>
+			<judul>ぼくの犬、クロ</judul>
+			<judul_en>My pet dog Kuro</judul_en>
+			<judul_id>Anjingku, Kuro</judul_id>
+			<dekiru>
 				<item>
 					<jp>ペットや家族との生活や、自分との関係を説明したりすることができる。</jp>
 					<en>Explain how you live with your pets and family as well as your relationships with them.</en>
@@ -12532,8 +12556,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="3">
-			<nomor>3</nomor>
+		<bab_group id="5">
+			<nomor>5</nomor>
 			<kategori>お知らせを読む</kategori>
 			<kategori_en>Read an Announcement</kategori_en>
 			<kategori_id>Membaca Pengumuman</kategori_id>
@@ -12546,6 +12570,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Read a recruitment announcement and understand the application process and other details.</en>
 					<id>Dapat membaca pengumuman pendaftaran dan memahami proses aplikasi serta detail lainnya.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="6">
+			<nomor>6</nomor>
+			<kategori>お知らせを読む</kategori>
+			<kategori_en>Read an Announcement</kategori_en>
+			<kategori_id>Membaca Pengumuman</kategori_id>
+			<judul>市民農園の募集</judul>
+			<judul_en>Applicants wanted for community garden</judul_en>
+			<judul_id>Pendaftaran Taman Komunitas</judul_id>
+			<dekiru>
 				<item>
 					<jp>イベントなどについて、経験者の感想や活動内容から、様子がイメージできる。</jp>
 					<en>Imagine what an event was like from a participant's impressions or activities they did.</en>
@@ -12554,8 +12590,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="4">
-			<nomor>4</nomor>
+		<bab_group id="7">
+			<nomor>7</nomor>
 			<kategori>友達同士の会話</kategori>
 			<kategori_en>A Conversation with a Friend</kategori_en>
 			<kategori_id>Percakapan dengan Teman</kategori_id>
@@ -12568,6 +12604,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Talk with a friend about a private matter while confirming information.</en>
 					<id>Dapat berbicara dengan teman tentang masalah pribadi sambil mengkonfirmasi informasi.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="8">
+			<nomor>8</nomor>
+			<kategori>友達同士の会話</kategori>
+			<kategori_en>A Conversation with a Friend</kategori_en>
+			<kategori_id>Percakapan dengan Teman</kategori_id>
+			<judul>水泳大会</judul>
+			<judul_en>A swimming competition</judul_en>
+			<judul_id>Pertandingan Renang</judul_id>
+			<dekiru>
 				<item>
 					<jp>個人的なことについて、意見や感想を交えて、友だちとおしゃべりができる。</jp>
 					<en>Talk with a friend about a private matter as you exchange opinions and impressions.</en>
@@ -12576,8 +12624,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="5">
-			<nomor>5</nomor>
+		<bab_group id="9">
+			<nomor>9</nomor>
 			<kategori>レシピを読む</kategori>
 			<kategori_en>Read a Recipe</kategori_en>
 			<kategori_id>Membaca Resep</kategori_id>
@@ -12590,6 +12638,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Read a recipe and understand what kind of food it is for.</en>
 					<id>Dapat membaca resep dan memahami jenis masakan yang dihasilkan.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="10">
+			<nomor>10</nomor>
+			<kategori>レシピを読む</kategori>
+			<kategori_en>Read a Recipe</kategori_en>
+			<kategori_id>Membaca Resep</kategori_id>
+			<judul>手作りハムのレシピ</judul>
+			<judul_en>A recipe for homemade ham</judul_en>
+			<judul_id>Resep Ham Buatan Sendiri</judul_id>
+			<dekiru>
 				<item>
 					<jp>レシピを読んで、料理の手順や注意が理解できる。</jp>
 					<en>Read a recipe and understand the steps and advice.</en>
@@ -12598,8 +12658,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="6">
-			<nomor>6</nomor>
+		<bab_group id="11">
+			<nomor>11</nomor>
 			<kategori>発表をする</kategori>
 			<kategori_en>Give a Presentation</kategori_en>
 			<kategori_id>Memberikan Presentasi</kategori_id>
@@ -12612,6 +12672,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Pose a question and express your opinion during a presentation on a subject, such as environmental issues.</en>
 					<id>Dapat mengajukan pertanyaan dan menyampaikan pendapat selama presentasi tentang suatu topik, seperti isu lingkungan.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="12">
+			<nomor>12</nomor>
+			<kategori>発表をする</kategori>
+			<kategori_en>Give a Presentation</kategori_en>
+			<kategori_id>Memberikan Presentasi</kategori_id>
+			<judul>里山について</judul>
+			<judul_en>Satoyama</judul_en>
+			<judul_id>Tentang Satoyama</judul_id>
+			<dekiru>
 				<item>
 					<jp>環境など、あるテーマについて具体例から結論までを話し、全体としてまとまった発表ができる。</jp>
 					<en>Give a full presentation on a subject that includes specific examples and a conclusion.</en>
@@ -12620,8 +12692,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="7">
-			<nomor>7</nomor>
+		<bab_group id="13">
+			<nomor>13</nomor>
 			<kategori>説明を聞く・意見を言う</kategori>
 			<kategori_en>Listen to Explanations and Give Opinions</kategori_en>
 			<kategori_id>Mendengarkan Penjelasan dan Menyampaikan Pendapat</kategori_id>
@@ -12634,6 +12706,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Understand an explanation given by a clerk using polite expressions and respond.</en>
 					<id>Dapat memahami penjelasan dari pegawai menggunakan ungkapan sopan dan menanggapinya.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="14">
+			<nomor>14</nomor>
+			<kategori>説明を聞く・意見を言う</kategori>
+			<kategori_en>Listen to Explanations and Give Opinions</kategori_en>
+			<kategori_id>Mendengarkan Penjelasan dan Menyampaikan Pendapat</kategori_id>
+			<judul>不動産屋で</judul>
+			<judul_en>At a real estate agency</judul_en>
+			<judul_id>Di Agen Properti</judul_id>
+			<dekiru>
 				<item>
 					<jp>友だちと、最近の変化について話したり、強くアドバイスをしたりすることができる。</jp>
 					<en>Talk about recent changes with a friend and emphatically give advice.</en>
@@ -12642,8 +12726,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="8">
-			<nomor>8</nomor>
+		<bab_group id="15">
+			<nomor>15</nomor>
 			<kategori>面接であいさつをする</kategori>
 			<kategori_en>Greet in an Interview</kategori_en>
 			<kategori_id>Menyapa dalam Wawancara</kategori_id>
@@ -12659,8 +12743,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="9">
-			<nomor>9</nomor>
+		<bab_group id="16">
+			<nomor>16</nomor>
 			<kategori>身近な話題を話す</kategori>
 			<kategori_en>Talk about Familiar Topics</kategori_en>
 			<kategori_id>Berbicara tentang Topik Sehari-hari</kategori_id>
@@ -12673,6 +12757,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Express personal thoughts and feelings about a familiar topic.</en>
 					<id>Dapat mengungkapkan pemikiran dan perasaan pribadi tentang topik yang familiar.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="17">
+			<nomor>17</nomor>
+			<kategori>身近な話題を話す</kategori>
+			<kategori_en>Talk about Familiar Topics</kategori_en>
+			<kategori_id>Berbicara tentang Topik Sehari-hari</kategori_id>
+			<judul>お花見</judul>
+			<judul_en>Cherry blossom viewing</judul_en>
+			<judul_id>Menonton Bunga Sakura</judul_id>
+			<dekiru>
 				<item>
 					<jp>特にこだわりがあるものなどについて、自分の気持ちを表現することができる。</jp>
 					<en>Express your feelings, especially about something you particularly care about.</en>
@@ -12681,8 +12777,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="10">
-			<nomor>10</nomor>
+		<bab_group id="18">
+			<nomor>18</nomor>
 			<kategori>意見を主張する・人を評価する</kategori>
 			<kategori_en>Assert Opinions and Evaluate People</kategori_en>
 			<kategori_id>Menegaskan Pendapat dan Mengevaluasi Orang</kategori_id>
@@ -12695,6 +12791,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Strongly assert your opinion about the outlook for the future.</en>
 					<id>Dapat menyatakan pendapat dengan tegas tentang prospek masa depan.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="19">
+			<nomor>19</nomor>
+			<kategori>意見を主張する・人を評価する</kategori>
+			<kategori_en>Assert Opinions and Evaluate People</kategori_en>
+			<kategori_id>Menegaskan Pendapat dan Mengevaluasi Orang</kategori_id>
+			<judul>ゆきの選択</judul>
+			<judul_en>Yuki's choice</judul_en>
+			<judul_id>Pilihan Yuki</judul_id>
+			<dekiru>
 				<item>
 					<jp>身近な人について、やや批判的に評価を言うことができる。</jp>
 					<en>Give a somewhat critical assessment of a familiar person.</en>
@@ -12703,8 +12811,8 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 			</dekiru>
 		</bab_group>
 
-		<bab_group id="11">
-			<nomor>11</nomor>
+		<bab_group id="20">
+			<nomor>20</nomor>
 			<kategori>困った状況を説明する</kategori>
 			<kategori_en>Explain a Troubling Situation</kategori_en>
 			<kategori_id>Menjelaskan Situasi yang Menyusahkan</kategori_id>
@@ -12717,6 +12825,18 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 					<en>Precisely explain a troubling situation and express a sentiment felt then.</en>
 					<id>Dapat menjelaskan situasi yang menyusahkan dengan tepat dan mengungkapkan perasaan yang dirasakan saat itu.</id>
 				</item>
+			</dekiru>
+		</bab_group>
+
+		<bab_group id="21">
+			<nomor>21</nomor>
+			<kategori>困った状況を説明する</kategori>
+			<kategori_en>Explain a Troubling Situation</kategori_en>
+			<kategori_id>Menjelaskan Situasi yang Menyusahkan</kategori_id>
+			<judul>友だちのお見舞い</judul>
+			<judul_en>Visiting a sick friend</judul_en>
+			<judul_id>Menjenguk Teman yang Sakit</judul_id>
+			<dekiru>
 				<item>
 					<jp>困った状況とそのときの心情について、具体的に説明したり表現したりすることができる。</jp>
 					<en>Precisely explain a troubling situation and express a sentiment felt then.</en>
@@ -12724,6 +12844,7 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 				</item>
 			</dekiru>
 		</bab_group>
+
 	</can_do_list>
 	
 </buku_try_n3>
