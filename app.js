@@ -293,7 +293,7 @@ function renderDrawer(currentSection = 'contents') {
         `;
     });
     
-    html += '</div></div><div class="drawer-section"><div class="drawer-section-title">Daftar Isi (Bab 1-22)</div><div class="drawer-list">';
+    html += '</div></div><div class="drawer-section"><div class="drawer-section-title">Daftar Isi (Bab 1-21)</div><div class="drawer-list">';
     
     let currentCategory = '';
     data.bab.forEach((bab) => {
