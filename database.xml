@@ -490,7 +490,7 @@
                 </item>
             </dekiru_koto>
 
-            <content type="essay">
+            <content type="speech">
                 <teks>先週の日曜日、リンさんと富士山に登った。途中までバスで行って、そこから登り始めた。登る前に水を買った店で、酸素缶も持っていくように言われた。山の上は空気が少ないから、必要になるかもしれないそうだ。空気が薄いと病気になる人もいるということを思い出したが、富士山は小学生でも登れると聞いたので、大丈夫だろうと思った。だから買わなかった。
 
 私は登山をしたことはないが、富士山は険しい山じゃないし、それほど大変じゃなさそうだった。</teks>
@@ -974,7 +974,7 @@ B：雪だから、遅れるのはしょうがないよ。</teks>
 				</item>
 			</dekiru_koto>
 
-			<content type="essay">
+			<content type="speech">
 				<teks>でも、登ってみると、本当に大変だった。途中で立っているのもつらいほど足が重くなった。もうやめたいと思ったが、前を見ると、どんどん登っていくリンさんが見えた。リンさんががんばっているのに、あきらめるのはくやしいから、私も登り続けた。
 
 	あとで聞いたら、リンさんも途中でやめようと思ったけど、私が後ろから登ってくるのが見えたからがんばったと言っていた。大変だったが、一番上まで行けて本当によかった。だから、もしこれから富士山に登る人がいたら、上まで行きたいなら、友だちと一緒に行くことをおすすめしたい。もちろん酸素缶も持っていったほうがいい。
@@ -1650,7 +1650,7 @@ B：雪だから、遅れるのはしょうがないよ。</teks>
 				</item>
 			</dekiru_koto>
 
-			<content type="essay">
+			<content type="speech">
 				<teks>ぼくはいつも夜、クロを散歩に連れていく。クロを飼い始めたのは3年前だ。色が黒いから、クロって名前をつけた。
 
 	最初、両親は犬を飼うことに反対だったが、何度も頼んで、やっと飼わせてもらった。そのかわり、雨の日も風の日も毎日必ず散歩すると約束させられた。だからクロの散歩はぼくの日課だ。
@@ -2624,7 +2624,7 @@ B：雪だから、遅れるのはしょうがないよ。</teks>
 				</item>
 			</dekiru_koto>
 
-			<content type="essay">
+			<content type="speech">
 				<teks>本年度も市民農園の利用者の募集を開始します。ご希望の方は２月末日までにお申し込みください。インターネットによるお申し込みも受け付けます。昨年は100区画の募集に対して、約120名のご応募がありました。希望者が多いため、定員を超えた場合は初めての方を優先いたします。また、１家族につき１区画に限定させていただきます。申し込み、お問い合わせ、しめ切りなどは下記のとおりです。
 	皆様のご応募をお待ちしております。</teks>
 				<teks_id>Tahun ini juga kami memulai pendaftaran pengguna Kebun Komunitas. Bagi yang berminat, silakan mendaftar sebelum akhir Februari. Pendaftaran melalui internet juga diterima. Tahun lalu, untuk pendaftaran 100 plot, ada sekitar 120 pendaftar. Karena banyaknya pendaftar, jika melebihi kuota, peserta pertama kali akan diprioritaskan. Selain itu, kami membatasi 1 plot untuk 1 keluarga. Pendaftaran, pertanyaan, batas waktu, dan lainnya sesuai dengan yang tercantum di bawah ini.
@@ -5201,7 +5201,7 @@ B：雪だから、遅れるのはしょうがないよ。</teks>
 				</item>
 			</dekiru_koto>
 
-			<content type="recipe" cd="25">
+			<content type="speech" cd="25">
 				<teks>（1日目）
 	1. とりむね肉を切らずにボウルに入れて、初めにはちみつ、または砂糖をかけて、次に塩、こしょうの順にかけてよく混ぜます。
 	2. 1をビニール袋に入れます。そのときできるだけ空気を入れないようにします。
@@ -8787,7 +8787,7 @@ Demikian konsultasinya, bagaimana kalau mencoba mengatakan dengan jujur bahwa An
 				</item>
 			</dekiru_koto>
 
-			<content type="essay">
+			<content type="speech">
 				<teks>毎年、桜の季節になると、いつ、だれと、どこにお花見に行くのかということは、私にとって大問題だ。花が咲いてからでなければ意味がないから、「いつ」はもちろん最優先だ。私はまるで雪が降っているかのように落ちてくる花びらを見るのがいちばん好きだが、五分咲き、満開、散り始め、それぞれの良さがある。どちらにしても花が残っているうちに行かないと意味がない。見ごろの時期はとても短いので、いろいろと大変だ。「だれと」と「どこに」はセットになる。○という名所はもちろん素晴らしく、花見客向けにお茶会などの催しもあって楽しい。人によってその楽しみ方はそれぞれだが、私は数人の友人とワイワイ一緒に行くことが多い。</teks>
 				<teks_id>Setiap tahun, ketika musim sakura tiba, masalah besar bagiku adalah kapan, dengan siapa, dan ke mana pergi melihat bunga sakura. Karena tidak ada artinya kecuali setelah bunga mekar, "kapan" tentu saja menjadi prioritas utama. Aku paling suka melihat kelopak bunga yang jatuh seperti salju yang turun, tetapi setengah mekar, mekar penuh, dan mulai rontok masing-masing memiliki keindahannya. Bagaimanapun, tidak ada artinya jika tidak pergi sebelum bunga-bunga itu rontok. Karena masa puncaknya sangat singkat, ada banyak kesulitan. "Dengan siapa" dan "Ke mana" menjadi satu set. Tempat terkenal yang disebut ○ tentu saja indah, dan menyenangkan karena ada acara seperti pesta teh untuk pengunjung hanami. Meskipun cara menikmatinya berbeda-beda tergantung orang, aku sering pergi bersama beberapa teman dengan riuh ramai.</teks_id>
 			</content>
